@@ -1,0 +1,1 @@
+{"indexes":[{"collectionGroup":"matches","queryScope":"COLLECTION","fields":[{"fieldPath":"status","order":"ASCENDING"},{"fieldPath":"date","order":"DESCENDING"}]},{"collectionGroup":"players","queryScope":"COLLECTION","fields":[{"fieldPath":"status","order":"ASCENDING"},{"fieldPath":"displayName","order":"ASCENDING"}]}],"fieldOverrides":[]}
