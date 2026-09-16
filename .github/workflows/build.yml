@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   build:
+    name: Verifica applicazione
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +21,7 @@ jobs:
       - name: Configura Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Installa le dipendenze
         run: npm install
