@@ -2,17 +2,12 @@ import {
   initializeApp,
   type FirebaseOptions,
 } from "firebase/app";
-import {
-  getAuth,
-} from "firebase/auth";
-import {
-  getFirestore,
-} from "firebase/firestore";
+import { getAuth } from "firebase/auth";
+import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig: FirebaseOptions = {
   apiKey:
-    import.meta.env
-      .VITE_FIREBASE_API_KEY,
+    import.meta.env.VITE_FIREBASE_API_KEY,
 
   authDomain:
     import.meta.env
@@ -31,12 +26,12 @@ const firebaseConfig: FirebaseOptions = {
       .VITE_FIREBASE_MESSAGING_SENDER_ID,
 
   appId:
-    import.meta.env
-      .VITE_FIREBASE_APP_ID,
+    import.meta.env.VITE_FIREBASE_APP_ID,
 };
 
 export const configured = Boolean(
   firebaseConfig.apiKey &&
+    firebaseConfig.authDomain &&
     firebaseConfig.projectId &&
     firebaseConfig.appId,
 );
