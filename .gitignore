@@ -9,3 +9,5 @@ firebase-admin-key*.json
 .DS_Store
 
 *.tsbuildinfo
+
+.firebase/
