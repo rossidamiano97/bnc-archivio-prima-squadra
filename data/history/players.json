@@ -1,0 +1,642 @@
+[
+  {
+    "id": "aldrovandi-p",
+    "displayName": "Aldrovandi P.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "bampa",
+    "displayName": "Bampa",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "benetti-t",
+    "displayName": "Benetti T.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "bortoletto-s",
+    "displayName": "Bortoletto S.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "bortolotti-d",
+    "displayName": "Bortolotti D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "bortolotti-s",
+    "displayName": "Bortolotti S.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "braggio-r",
+    "displayName": "Braggio R.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "bresciani-a",
+    "displayName": "Bresciani A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "brugnoli-g",
+    "displayName": "Brugnoli G.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "capriotti-a",
+    "displayName": "Capriotti A.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "cataldo-o",
+    "displayName": "Cataldo O.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "chelidonio-d",
+    "displayName": "Chelidonio D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "cipriani-n",
+    "displayName": "Cipriani N.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "cipriani-s",
+    "displayName": "Cipriani S.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "cobelli-d",
+    "displayName": "Cobelli D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "colussi-a",
+    "displayName": "Colussi A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "contolini-z",
+    "displayName": "Contolini Z.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "corigliano-d",
+    "displayName": "Corigliano D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "corso-d",
+    "displayName": "Corso D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "cottini-a",
+    "displayName": "Cottini A.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "cottini-m",
+    "displayName": "Cottini M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "crema-d",
+    "displayName": "Crema D.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "crisci-t",
+    "displayName": "Crisci T.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "dalla-via-a",
+    "displayName": "Dalla Via A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "dalla-via-f",
+    "displayName": "Dalla Via F.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "danese-l",
+    "displayName": "Danese L.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "danquah-j",
+    "displayName": "Danquah J.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "danquah-k",
+    "displayName": "Danquah K.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "de-bortoli-d",
+    "displayName": "De Bortoli D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "de-francesco-m",
+    "displayName": "De Francesco M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "diallo-m",
+    "displayName": "Diallo M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "doardi-m",
+    "displayName": "Doardi M.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "dongili-l",
+    "displayName": "Dongili L.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "fasoli-m",
+    "displayName": "Fasoli M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "fattori-t",
+    "displayName": "Fattori T.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "ferrari-f",
+    "displayName": "Ferrari F.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "furlan-l",
+    "displayName": "Furlan L.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "fusari-m",
+    "displayName": "Fusari M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "gardin-a",
+    "displayName": "Gardin A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "grimaldi-f",
+    "displayName": "Grimaldi F.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "guarise-b",
+    "displayName": "Guarise B.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "intrieri-f",
+    "displayName": "Intrieri F.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "lukaj-c",
+    "displayName": "Lukaj C.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "lupo-d",
+    "displayName": "Lupo D.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "massocco-l",
+    "displayName": "Massocco L.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "massocco-m",
+    "displayName": "Massocco M.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "matenin-t",
+    "displayName": "Matenin T.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "meritano-m",
+    "displayName": "Meritano M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "molinaroli-m",
+    "displayName": "Molinaroli M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "mura",
+    "displayName": "Mura",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "nocerino-g",
+    "displayName": "Nocerino G.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "olivieri-m",
+    "displayName": "Olivieri M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "omorodion-s",
+    "displayName": "Omorodion S.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "ortolani-a",
+    "displayName": "Ortolani A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "palomino-o",
+    "displayName": "Palomino O.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "parlato-a",
+    "displayName": "Parlato A.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "pighi-a",
+    "displayName": "Pighi A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "pighi-f",
+    "displayName": "Pighi F.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "poddie-m",
+    "displayName": "Poddie M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "pollina-g",
+    "displayName": "Pollina G.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "prato-a",
+    "displayName": "Prato A.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "rossi-d",
+    "displayName": "Rossi D.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "sani-f",
+    "displayName": "Sani F.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "santi-o",
+    "displayName": "Santi O.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "sartor-l",
+    "displayName": "Sartor L.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "savoja-n",
+    "displayName": "Savoja N.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "sberveglieri-m",
+    "displayName": "Sberveglieri M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "scala-g",
+    "displayName": "Scala G.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "signorini-f",
+    "displayName": "Signorini F.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "sona-f",
+    "displayName": "Sona F.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "spada-f",
+    "displayName": "Spada F.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "squaranti-l",
+    "displayName": "Squaranti L.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "storti-e",
+    "displayName": "Storti E.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "tommasi-d",
+    "displayName": "Tommasi D.",
+    "role": "Da verificare",
+    "active": true,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "tommasi-p",
+    "displayName": "Tommasi P.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "truschelli-p",
+    "displayName": "Truschelli P.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "viscomi-l",
+    "displayName": "Viscomi L.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "zago-m",
+    "displayName": "Zago M.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "zamperlin-a",
+    "displayName": "Zamperlin A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  },
+  {
+    "id": "zanetti-a",
+    "displayName": "Zanetti A.",
+    "role": "Da verificare",
+    "active": false,
+    "status": "published",
+    "source": "archivio BNC (2).pdf"
+  }
+]

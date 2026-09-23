@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2020-2021-andrea-crema",
+    "seasonId": "2020-2021",
+    "coachId": "andrea-crema",
+    "coachName": "Andrea Crema",
+    "startDate": "2020-07-01",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-andrea-crema",
+    "seasonId": "2021-2022",
+    "coachId": "andrea-crema",
+    "coachName": "Andrea Crema",
+    "startDate": "2021-07-01",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-andrea-crema",
+    "seasonId": "2022-2023",
+    "coachId": "andrea-crema",
+    "coachName": "Andrea Crema",
+    "startDate": "2022-07-01",
+    "endDate": "2023-01-22",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-damiano-crisci",
+    "seasonId": "2022-2023",
+    "coachId": "damiano-crisci",
+    "coachName": "Damiano Crisci",
+    "startDate": "2023-02-12",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-damiano-crisci",
+    "seasonId": "2023-2024",
+    "coachId": "damiano-crisci",
+    "coachName": "Damiano Crisci",
+    "startDate": "2023-07-01",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-damiano-crisci",
+    "seasonId": "2024-2025",
+    "coachId": "damiano-crisci",
+    "coachName": "Damiano Crisci",
+    "startDate": "2024-07-01",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-damiano-crisci",
+    "seasonId": "2025-2026",
+    "coachId": "damiano-crisci",
+    "coachName": "Damiano Crisci",
+    "startDate": "2025-07-01",
+    "status": "published"
+  }
+]

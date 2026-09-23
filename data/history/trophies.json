@@ -1,0 +1,21 @@
+[
+  {
+    "id": "coppa-verona-2023-2024",
+    "seasonId": "2023-2024",
+    "name": "Coppa Verona",
+    "result": "Vincitore",
+    "date": "2024-06-08",
+    "status": "published",
+    "sourcePage": 147
+  },
+  {
+    "id": "coppa-verona-2025-2026",
+    "seasonId": "2025-2026",
+    "name": "Coppa Verona",
+    "result": "Vincitore",
+    "date": "2026-06-05",
+    "status": "published",
+    "sourcePage": 194,
+    "notes": "Finale 1-1, vittoria 5-4 ai rigori; statisticamente pareggio."
+  }
+]

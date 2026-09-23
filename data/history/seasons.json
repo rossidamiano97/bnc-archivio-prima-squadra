@@ -1,0 +1,170 @@
+[
+  {
+    "id": "2020-2021",
+    "label": "2020/2021",
+    "category": "Terza Categoria",
+    "coach": "Andrea Crema",
+    "status": "published",
+    "sourcePages": [
+      103,
+      107
+    ],
+    "aggregates": {
+      "officialMatches": 4,
+      "wins": 3,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 16,
+      "goalsAgainst": 4,
+      "goalDifference": 12
+    },
+    "notes": "Stagione interrotta per COVID-19; le amichevoli sono escluse."
+  },
+  {
+    "id": "2021-2022",
+    "label": "2021/2022",
+    "category": "Terza Categoria",
+    "coach": "Andrea Crema",
+    "status": "published",
+    "sourcePages": [
+      108,
+      118
+    ],
+    "aggregates": {
+      "officialMatches": 26,
+      "wins": 14,
+      "draws": 4,
+      "losses": 8,
+      "goalsFor": 59,
+      "goalsAgainst": 26,
+      "goalDifference": 33
+    },
+    "notes": "Totali del volume: campionato e Coppa Verona."
+  },
+  {
+    "id": "2022-2023",
+    "label": "2022/2023",
+    "category": "Seconda Categoria",
+    "coach": "Andrea Crema / Damiano Crisci",
+    "status": "published",
+    "sourcePages": [
+      119,
+      130
+    ],
+    "aggregates": {
+      "officialMatches": 31,
+      "wins": 5,
+      "draws": 7,
+      "losses": 19,
+      "goalsFor": 28,
+      "goalsAgainst": 63,
+      "goalDifference": -35
+    },
+    "league": {
+      "position": 13,
+      "points": 20,
+      "wins": 5,
+      "draws": 5,
+      "losses": 16,
+      "goalsFor": 24,
+      "goalsAgainst": 51
+    },
+    "notes": "Cambio allenatore dopo il 22 gennaio 2023. Il totale dichiarato di 31 gare sembra includere i due playout, nonostante la nota del volume citi campionato e Coppa Veneto."
+  },
+  {
+    "id": "2023-2024",
+    "label": "2023/2024",
+    "category": "Terza Categoria",
+    "coach": "Damiano Crisci",
+    "status": "published",
+    "sourcePages": [
+      131,
+      154
+    ],
+    "aggregates": {
+      "officialMatches": 37,
+      "wins": 18,
+      "draws": 11,
+      "losses": 8,
+      "goalsFor": 75,
+      "goalsAgainst": 43,
+      "goalDifference": 32
+    },
+    "league": {
+      "position": 7,
+      "points": 49,
+      "wins": 13,
+      "draws": 10,
+      "losses": 7,
+      "goalsFor": 59,
+      "goalsAgainst": 38
+    },
+    "trophies": [
+      "Coppa Verona"
+    ],
+    "notes": "Vittoria Coppa Verona 8 giugno 2024."
+  },
+  {
+    "id": "2024-2025",
+    "label": "2024/2025",
+    "category": "Seconda Categoria",
+    "coach": "Damiano Crisci",
+    "status": "published",
+    "sourcePages": [
+      155,
+      174
+    ],
+    "aggregates": {
+      "officialMatches": 35,
+      "wins": 9,
+      "draws": 6,
+      "losses": 20,
+      "goalsFor": 40,
+      "goalsAgainst": 62,
+      "goalDifference": -22
+    },
+    "league": {
+      "position": 14,
+      "points": 30,
+      "wins": 8,
+      "draws": 6,
+      "losses": 16,
+      "goalsFor": 38,
+      "goalsAgainst": 54
+    },
+    "notes": "Il totale dichiarato di 35 gare include 30 campionato, 3 Coppa Veneto e 2 playout."
+  },
+  {
+    "id": "2025-2026",
+    "label": "2025/2026",
+    "category": "Terza Categoria",
+    "coach": "Damiano Crisci",
+    "status": "published",
+    "sourcePages": [
+      175,
+      200
+    ],
+    "aggregates": {
+      "officialMatches": 31,
+      "wins": 19,
+      "draws": 6,
+      "losses": 6,
+      "goalsFor": 58,
+      "goalsAgainst": 31,
+      "goalDifference": 27
+    },
+    "league": {
+      "position": 2,
+      "points": 44,
+      "wins": 13,
+      "draws": 5,
+      "losses": 4,
+      "goalsFor": 38,
+      "goalsAgainst": 19
+    },
+    "trophies": [
+      "Coppa Verona"
+    ],
+    "notes": "Vittoria Coppa Verona ai rigori il 5 giugno 2026. Il totale dichiarato di 31 gare sembra includere anche il playoff contro Rivoli."
+  }
+]

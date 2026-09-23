@@ -1,0 +1,14 @@
+[
+  {
+    "id": "andrea-crema",
+    "displayName": "Andrea Crema",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "damiano-crisci",
+    "displayName": "Damiano Crisci",
+    "active": true,
+    "status": "published"
+  }
+]

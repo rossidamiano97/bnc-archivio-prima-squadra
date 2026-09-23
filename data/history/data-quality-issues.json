@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ISSUE-001",
+    "seasonId": "2022-2023",
+    "severity": "medium",
+    "description": "Il riepilogo dichiara 31 partite e dice campionato + Coppa Veneto; 26 campionato + 3 coppa = 29. Le due gare playout portano il totale a 31.",
+    "proposedResolution": "Mantenere playoff/playout separati ma inclusi nei totali ufficiali, secondo le regole BNC."
+  },
+  {
+    "id": "ISSUE-002",
+    "seasonId": "2024-2025",
+    "severity": "medium",
+    "description": "Il riepilogo dichiara 35 partite; 30 campionato + 3 coppa + 2 playout = 35.",
+    "proposedResolution": "Includere i playout nei totali ufficiali, separandoli dal campionato."
+  },
+  {
+    "id": "ISSUE-003",
+    "seasonId": "2025-2026",
+    "severity": "medium",
+    "description": "Il riepilogo dichiara 31 partite; 22 campionato + 8 coppa + 1 playoff = 31.",
+    "proposedResolution": "Includere il playoff nei totali ufficiali, separandolo dal campionato."
+  },
+  {
+    "id": "ISSUE-004",
+    "seasonId": "2025-2026",
+    "severity": "high",
+    "description": "La classifica a pagina 188 riporta Cavaion con 463 gol subiti, evidente errore tipografico.",
+    "proposedResolution": "Verificare il valore corretto prima di importare la classifica completa."
+  },
+  {
+    "id": "ISSUE-005",
+    "seasonId": "2025-2026",
+    "severity": "medium",
+    "description": "Nel testo compare '22 Valdadige 2025' al posto della data completa.",
+    "proposedResolution": "Verificare la data della gara Valdadige - BNC Noi."
+  },
+  {
+    "id": "ISSUE-006",
+    "seasonId": "2023-2024",
+    "severity": "medium",
+    "description": "La gara BNC Noi - Young Boys è datata 6 marzo 2023 all'interno della stagione 2023/2024.",
+    "proposedResolution": "Probabile 6 marzo 2024; verificare il documento originale/scansione."
+  }
+]
