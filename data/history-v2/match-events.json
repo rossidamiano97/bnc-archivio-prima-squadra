@@ -1,0 +1,5231 @@
+[
+  {
+    "id": "2020-2021-2020-09-27-campionato-rosegaferro-event-0",
+    "matchId": "2020-2021-2020-09-27-campionato-rosegaferro",
+    "seasonId": "2020-2021",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-09-27-campionato-rosegaferro-event-1",
+    "matchId": "2020-2021-2020-09-27-campionato-rosegaferro",
+    "seasonId": "2020-2021",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-09-27-campionato-rosegaferro-event-2",
+    "matchId": "2020-2021-2020-09-27-campionato-rosegaferro",
+    "seasonId": "2020-2021",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-09-27-campionato-rosegaferro-event-3",
+    "matchId": "2020-2021-2020-09-27-campionato-rosegaferro",
+    "seasonId": "2020-2021",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-09-27-campionato-rosegaferro-event-4",
+    "matchId": "2020-2021-2020-09-27-campionato-rosegaferro",
+    "seasonId": "2020-2021",
+    "playerId": "gardin-a",
+    "playerName": "Gardin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-09-27-campionato-rosegaferro-event-5",
+    "matchId": "2020-2021-2020-09-27-campionato-rosegaferro",
+    "seasonId": "2020-2021",
+    "playerId": "brugnoli-g",
+    "playerName": "Brugnoli G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-04-campionato-vr-arena-event-6",
+    "matchId": "2020-2021-2020-10-04-campionato-vr-arena",
+    "seasonId": "2020-2021",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-04-campionato-vr-arena-event-7",
+    "matchId": "2020-2021-2020-10-04-campionato-vr-arena",
+    "seasonId": "2020-2021",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-04-campionato-vr-arena-event-8",
+    "matchId": "2020-2021-2020-10-04-campionato-vr-arena",
+    "seasonId": "2020-2021",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-04-campionato-vr-arena-event-9",
+    "matchId": "2020-2021-2020-10-04-campionato-vr-arena",
+    "seasonId": "2020-2021",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-04-campionato-vr-arena-event-10",
+    "matchId": "2020-2021-2020-10-04-campionato-vr-arena",
+    "seasonId": "2020-2021",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-04-campionato-vr-arena-event-11",
+    "matchId": "2020-2021-2020-10-04-campionato-vr-arena",
+    "seasonId": "2020-2021",
+    "playerId": "bresciani-a",
+    "playerName": "Bresciani A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-11-campionato-real-vigasio-event-12",
+    "matchId": "2020-2021-2020-10-11-campionato-real-vigasio",
+    "seasonId": "2020-2021",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-11-campionato-real-vigasio-event-13",
+    "matchId": "2020-2021-2020-10-11-campionato-real-vigasio",
+    "seasonId": "2020-2021",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-11-campionato-real-vigasio-event-14",
+    "matchId": "2020-2021-2020-10-11-campionato-real-vigasio",
+    "seasonId": "2020-2021",
+    "playerId": "lupo-d",
+    "playerName": "Lupo D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-11-campionato-real-vigasio-event-15",
+    "matchId": "2020-2021-2020-10-11-campionato-real-vigasio",
+    "seasonId": "2020-2021",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-18-campionato-cadore-b-event-16",
+    "matchId": "2020-2021-2020-10-18-campionato-cadore-b",
+    "seasonId": "2020-2021",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-18-campionato-cadore-b-event-17",
+    "matchId": "2020-2021-2020-10-18-campionato-cadore-b",
+    "seasonId": "2020-2021",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-18-campionato-cadore-b-event-18",
+    "matchId": "2020-2021-2020-10-18-campionato-cadore-b",
+    "seasonId": "2020-2021",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-18-campionato-cadore-b-event-19",
+    "matchId": "2020-2021-2020-10-18-campionato-cadore-b",
+    "seasonId": "2020-2021",
+    "playerId": "fattori-t",
+    "playerName": "Fattori T.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-18-campionato-cadore-b-event-20",
+    "matchId": "2020-2021-2020-10-18-campionato-cadore-b",
+    "seasonId": "2020-2021",
+    "playerId": "brugnoli-g",
+    "playerName": "Brugnoli G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2020-2021-2020-10-18-campionato-cadore-b-event-21",
+    "matchId": "2020-2021-2020-10-18-campionato-cadore-b",
+    "seasonId": "2020-2021",
+    "playerId": "fattori-t",
+    "playerName": "Fattori T.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-22",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "lupo-d",
+    "playerName": "Lupo D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-23",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-24",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-25",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "lupo-d",
+    "playerName": "Lupo D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-26",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-27",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-28",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-09-19-campionato-paluani-life-event-29",
+    "matchId": "2021-2022-2021-09-19-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-30",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-31",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-32",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-33",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "zamperlin-a",
+    "playerName": "Zamperlin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-34",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-35",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "nocerino-g",
+    "playerName": "Nocerino G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-03-campionato-bardolino-event-36",
+    "matchId": "2021-2022-2021-10-03-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "tommasi-p",
+    "playerName": "Tommasi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-10-campionato-rivoli-event-37",
+    "matchId": "2021-2022-2021-10-10-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "palomino-o",
+    "playerName": "Palomino O.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-10-campionato-rivoli-event-38",
+    "matchId": "2021-2022-2021-10-10-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "rossi-d",
+    "playerName": "Rossi D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-10-campionato-rivoli-event-39",
+    "matchId": "2021-2022-2021-10-10-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-10-campionato-rivoli-event-40",
+    "matchId": "2021-2022-2021-10-10-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-10-campionato-rivoli-event-41",
+    "matchId": "2021-2022-2021-10-10-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "gardin-a",
+    "playerName": "Gardin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-10-campionato-rivoli-event-42",
+    "matchId": "2021-2022-2021-10-10-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-17-campionato-fumanese-event-43",
+    "matchId": "2021-2022-2021-10-17-campionato-fumanese",
+    "seasonId": "2021-2022",
+    "playerId": "fattori-t",
+    "playerName": "Fattori T.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-17-campionato-fumanese-event-44",
+    "matchId": "2021-2022-2021-10-17-campionato-fumanese",
+    "seasonId": "2021-2022",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-17-campionato-fumanese-event-45",
+    "matchId": "2021-2022-2021-10-17-campionato-fumanese",
+    "seasonId": "2021-2022",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-24-campionato-caprino-event-46",
+    "matchId": "2021-2022-2021-10-24-campionato-caprino",
+    "seasonId": "2021-2022",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-10-24-campionato-caprino-event-47",
+    "matchId": "2021-2022-2021-10-24-campionato-caprino",
+    "seasonId": "2021-2022",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-07-campionato-vigasio-event-48",
+    "matchId": "2021-2022-2021-11-07-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-07-campionato-vigasio-event-49",
+    "matchId": "2021-2022-2021-11-07-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-07-campionato-vigasio-event-50",
+    "matchId": "2021-2022-2021-11-07-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-07-campionato-vigasio-event-51",
+    "matchId": "2021-2022-2021-11-07-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-07-campionato-vigasio-event-52",
+    "matchId": "2021-2022-2021-11-07-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-07-campionato-vigasio-event-53",
+    "matchId": "2021-2022-2021-11-07-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-14-campionato-baldo-junior-team-event-54",
+    "matchId": "2021-2022-2021-11-14-campionato-baldo-junior-team",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-14-campionato-baldo-junior-team-event-55",
+    "matchId": "2021-2022-2021-11-14-campionato-baldo-junior-team",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-14-campionato-baldo-junior-team-event-56",
+    "matchId": "2021-2022-2021-11-14-campionato-baldo-junior-team",
+    "seasonId": "2021-2022",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-14-campionato-baldo-junior-team-event-57",
+    "matchId": "2021-2022-2021-11-14-campionato-baldo-junior-team",
+    "seasonId": "2021-2022",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-21-campionato-young-boys-event-58",
+    "matchId": "2021-2022-2021-11-21-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-21-campionato-young-boys-event-59",
+    "matchId": "2021-2022-2021-11-21-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-21-campionato-young-boys-event-60",
+    "matchId": "2021-2022-2021-11-21-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-28-campionato-cadore-event-61",
+    "matchId": "2021-2022-2021-11-28-campionato-cadore",
+    "seasonId": "2021-2022",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-28-campionato-cadore-event-62",
+    "matchId": "2021-2022-2021-11-28-campionato-cadore",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-28-campionato-cadore-event-63",
+    "matchId": "2021-2022-2021-11-28-campionato-cadore",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-11-28-campionato-cadore-event-64",
+    "matchId": "2021-2022-2021-11-28-campionato-cadore",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-05-campionato-rosegaferro-event-65",
+    "matchId": "2021-2022-2021-12-05-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-05-campionato-rosegaferro-event-66",
+    "matchId": "2021-2022-2021-12-05-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-05-campionato-rosegaferro-event-67",
+    "matchId": "2021-2022-2021-12-05-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-05-campionato-rosegaferro-event-68",
+    "matchId": "2021-2022-2021-12-05-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "tommasi-d",
+    "playerName": "Tommasi D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-05-campionato-rosegaferro-event-69",
+    "matchId": "2021-2022-2021-12-05-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-05-campionato-rosegaferro-event-70",
+    "matchId": "2021-2022-2021-12-05-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-13-campionato-negrar-event-71",
+    "matchId": "2021-2022-2022-02-13-campionato-negrar",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-13-campionato-negrar-event-72",
+    "matchId": "2021-2022-2022-02-13-campionato-negrar",
+    "seasonId": "2021-2022",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-13-campionato-negrar-event-73",
+    "matchId": "2021-2022-2022-02-13-campionato-negrar",
+    "seasonId": "2021-2022",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-13-campionato-negrar-event-74",
+    "matchId": "2021-2022-2022-02-13-campionato-negrar",
+    "seasonId": "2021-2022",
+    "playerId": "dongili-l",
+    "playerName": "Dongili L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-13-campionato-negrar-event-75",
+    "matchId": "2021-2022-2022-02-13-campionato-negrar",
+    "seasonId": "2021-2022",
+    "playerId": "zamperlin-a",
+    "playerName": "Zamperlin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-20-campionato-bardolino-event-76",
+    "matchId": "2021-2022-2022-02-20-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "zamperlin-a",
+    "playerName": "Zamperlin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-20-campionato-bardolino-event-77",
+    "matchId": "2021-2022-2022-02-20-campionato-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-27-campionato-rivoli-event-78",
+    "matchId": "2021-2022-2022-02-27-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-27-campionato-rivoli-event-79",
+    "matchId": "2021-2022-2022-02-27-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-27-campionato-rivoli-event-80",
+    "matchId": "2021-2022-2022-02-27-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-27-campionato-rivoli-event-81",
+    "matchId": "2021-2022-2022-02-27-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-02-27-campionato-rivoli-event-82",
+    "matchId": "2021-2022-2022-02-27-campionato-rivoli",
+    "seasonId": "2021-2022",
+    "playerId": "zamperlin-a",
+    "playerName": "Zamperlin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-03-06-campionato-fumanese-event-83",
+    "matchId": "2021-2022-2022-03-06-campionato-fumanese",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-03-13-campionato-caprino-event-84",
+    "matchId": "2021-2022-2022-03-13-campionato-caprino",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-03-13-campionato-caprino-event-85",
+    "matchId": "2021-2022-2022-03-13-campionato-caprino",
+    "seasonId": "2021-2022",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-03-20-campionato-vigasio-event-86",
+    "matchId": "2021-2022-2022-03-20-campionato-vigasio",
+    "seasonId": "2021-2022",
+    "playerId": "lupo-d",
+    "playerName": "Lupo D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-03-27-campionato-baldo-junior-team-event-87",
+    "matchId": "2021-2022-2022-03-27-campionato-baldo-junior-team",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-03-campionato-young-boys-event-88",
+    "matchId": "2021-2022-2022-04-03-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-03-campionato-young-boys-event-89",
+    "matchId": "2021-2022-2022-04-03-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "zamperlin-a",
+    "playerName": "Zamperlin A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-03-campionato-young-boys-event-90",
+    "matchId": "2021-2022-2022-04-03-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-03-campionato-young-boys-event-91",
+    "matchId": "2021-2022-2022-04-03-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-03-campionato-young-boys-event-92",
+    "matchId": "2021-2022-2022-04-03-campionato-young-boys",
+    "seasonId": "2021-2022",
+    "playerId": "rossi-d",
+    "playerName": "Rossi D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-08-campionato-cadore-event-93",
+    "matchId": "2021-2022-2022-04-08-campionato-cadore",
+    "seasonId": "2021-2022",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-08-campionato-cadore-event-94",
+    "matchId": "2021-2022-2022-04-08-campionato-cadore",
+    "seasonId": "2021-2022",
+    "playerId": "fattori-t",
+    "playerName": "Fattori T.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-24-campionato-rosegaferro-event-95",
+    "matchId": "2021-2022-2022-04-24-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-24-campionato-rosegaferro-event-96",
+    "matchId": "2021-2022-2022-04-24-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-04-24-campionato-rosegaferro-event-97",
+    "matchId": "2021-2022-2022-04-24-campionato-rosegaferro",
+    "seasonId": "2021-2022",
+    "playerId": "intrieri-f",
+    "playerName": "Intrieri F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-01-campionato-paluani-life-event-98",
+    "matchId": "2021-2022-2022-05-01-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "rossi-d",
+    "playerName": "Rossi D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-01-campionato-paluani-life-event-99",
+    "matchId": "2021-2022-2022-05-01-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-01-campionato-paluani-life-event-100",
+    "matchId": "2021-2022-2022-05-01-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-01-campionato-paluani-life-event-101",
+    "matchId": "2021-2022-2022-05-01-campionato-paluani-life",
+    "seasonId": "2021-2022",
+    "playerId": "fattori-t",
+    "playerName": "Fattori T.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-12-coppa-verona-sampietrina-event-102",
+    "matchId": "2021-2022-2021-12-12-coppa-verona-sampietrina",
+    "seasonId": "2021-2022",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-12-coppa-verona-sampietrina-event-103",
+    "matchId": "2021-2022-2021-12-12-coppa-verona-sampietrina",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-12-coppa-verona-sampietrina-event-104",
+    "matchId": "2021-2022-2021-12-12-coppa-verona-sampietrina",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-12-coppa-verona-sampietrina-event-105",
+    "matchId": "2021-2022-2021-12-12-coppa-verona-sampietrina",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-12-coppa-verona-sampietrina-event-106",
+    "matchId": "2021-2022-2021-12-12-coppa-verona-sampietrina",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-107",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-108",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-109",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-110",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-111",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-112",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-113",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2021-12-19-coppa-verona-bonarubiana-event-114",
+    "matchId": "2021-2022-2021-12-19-coppa-verona-bonarubiana",
+    "seasonId": "2021-2022",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-15-coppa-verona-vestenanova-event-115",
+    "matchId": "2021-2022-2022-05-15-coppa-verona-vestenanova",
+    "seasonId": "2021-2022",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-15-coppa-verona-vestenanova-event-116",
+    "matchId": "2021-2022-2022-05-15-coppa-verona-vestenanova",
+    "seasonId": "2021-2022",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-15-coppa-verona-vestenanova-event-117",
+    "matchId": "2021-2022-2022-05-15-coppa-verona-vestenanova",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-15-coppa-verona-vestenanova-event-118",
+    "matchId": "2021-2022-2022-05-15-coppa-verona-vestenanova",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-15-coppa-verona-vestenanova-event-119",
+    "matchId": "2021-2022-2022-05-15-coppa-verona-vestenanova",
+    "seasonId": "2021-2022",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-15-coppa-verona-vestenanova-event-120",
+    "matchId": "2021-2022-2022-05-15-coppa-verona-vestenanova",
+    "seasonId": "2021-2022",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-121",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-122",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-123",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-124",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-125",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-126",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-127",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-128",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "braggio-r",
+    "playerName": "Braggio R.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-129",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "fattori-t",
+    "playerName": "Fattori T.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-130",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-131",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-132",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-133",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-134",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-135",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "storti-e",
+    "playerName": "Storti E.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-136",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "lupo-d",
+    "playerName": "Lupo D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2021-2022-2022-05-20-coppa-verona-bardolino-event-137",
+    "matchId": "2021-2022-2022-05-20-coppa-verona-bardolino",
+    "seasonId": "2021-2022",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-08-28-coppa-veneto-ausonia-united-event-138",
+    "matchId": "2022-2023-2022-08-28-coppa-veneto-ausonia-united",
+    "seasonId": "2022-2023",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-08-28-coppa-veneto-ausonia-united-event-139",
+    "matchId": "2022-2023-2022-08-28-coppa-veneto-ausonia-united",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-08-28-coppa-veneto-ausonia-united-event-140",
+    "matchId": "2022-2023-2022-08-28-coppa-veneto-ausonia-united",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-08-28-coppa-veneto-ausonia-united-event-141",
+    "matchId": "2022-2023-2022-08-28-coppa-veneto-ausonia-united",
+    "seasonId": "2022-2023",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-04-coppa-veneto-san-massimo-event-142",
+    "matchId": "2022-2023-2022-09-04-coppa-veneto-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-04-coppa-veneto-san-massimo-event-143",
+    "matchId": "2022-2023-2022-09-04-coppa-veneto-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-11-coppa-veneto-olimpia-verona-event-144",
+    "matchId": "2022-2023-2022-09-11-coppa-veneto-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "bresciani-a",
+    "playerName": "Bresciani A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-18-campionato-arbizzano-event-145",
+    "matchId": "2022-2023-2022-09-18-campionato-arbizzano",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-18-campionato-arbizzano-event-146",
+    "matchId": "2022-2023-2022-09-18-campionato-arbizzano",
+    "seasonId": "2022-2023",
+    "playerId": "poddie-m",
+    "playerName": "Poddie M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-25-campionato-pizzoletta-event-147",
+    "matchId": "2022-2023-2022-09-25-campionato-pizzoletta",
+    "seasonId": "2022-2023",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-25-campionato-pizzoletta-event-148",
+    "matchId": "2022-2023-2022-09-25-campionato-pizzoletta",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-25-campionato-pizzoletta-event-149",
+    "matchId": "2022-2023-2022-09-25-campionato-pizzoletta",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-09-25-campionato-pizzoletta-event-150",
+    "matchId": "2022-2023-2022-09-25-campionato-pizzoletta",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-02-campionato-alpo-lepanto-event-151",
+    "matchId": "2022-2023-2022-10-02-campionato-alpo-lepanto",
+    "seasonId": "2022-2023",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-02-campionato-alpo-lepanto-event-152",
+    "matchId": "2022-2023-2022-10-02-campionato-alpo-lepanto",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-09-campionato-cadore-event-153",
+    "matchId": "2022-2023-2022-10-09-campionato-cadore",
+    "seasonId": "2022-2023",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-09-campionato-cadore-event-154",
+    "matchId": "2022-2023-2022-10-09-campionato-cadore",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-09-campionato-cadore-event-155",
+    "matchId": "2022-2023-2022-10-09-campionato-cadore",
+    "seasonId": "2022-2023",
+    "playerId": "poddie-m",
+    "playerName": "Poddie M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-16-campionato-avesa-event-156",
+    "matchId": "2022-2023-2022-10-16-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-16-campionato-avesa-event-157",
+    "matchId": "2022-2023-2022-10-16-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-16-campionato-avesa-event-158",
+    "matchId": "2022-2023-2022-10-16-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-16-campionato-avesa-event-159",
+    "matchId": "2022-2023-2022-10-16-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-16-campionato-avesa-event-160",
+    "matchId": "2022-2023-2022-10-16-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-16-campionato-avesa-event-161",
+    "matchId": "2022-2023-2022-10-16-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-23-campionato-juventina-valpantena-event-162",
+    "matchId": "2022-2023-2022-10-23-campionato-juventina-valpantena",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-23-campionato-juventina-valpantena-event-163",
+    "matchId": "2022-2023-2022-10-23-campionato-juventina-valpantena",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-30-campionato-gabetti-valeggio-event-164",
+    "matchId": "2022-2023-2022-10-30-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-30-campionato-gabetti-valeggio-event-165",
+    "matchId": "2022-2023-2022-10-30-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "benetti-t",
+    "playerName": "Benetti T.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-30-campionato-gabetti-valeggio-event-166",
+    "matchId": "2022-2023-2022-10-30-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "zanetti-a",
+    "playerName": "Zanetti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-10-30-campionato-gabetti-valeggio-event-167",
+    "matchId": "2022-2023-2022-10-30-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-06-campionato-rosegaferro-event-168",
+    "matchId": "2022-2023-2022-11-06-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-06-campionato-rosegaferro-event-169",
+    "matchId": "2022-2023-2022-11-06-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-06-campionato-rosegaferro-event-170",
+    "matchId": "2022-2023-2022-11-06-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-06-campionato-rosegaferro-event-171",
+    "matchId": "2022-2023-2022-11-06-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-06-campionato-rosegaferro-event-172",
+    "matchId": "2022-2023-2022-11-06-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-13-campionato-san-massimo-event-173",
+    "matchId": "2022-2023-2022-11-13-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-13-campionato-san-massimo-event-174",
+    "matchId": "2022-2023-2022-11-13-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-13-campionato-san-massimo-event-175",
+    "matchId": "2022-2023-2022-11-13-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-20-campionato-parona-event-176",
+    "matchId": "2022-2023-2022-11-20-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-20-campionato-parona-event-177",
+    "matchId": "2022-2023-2022-11-20-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-20-campionato-parona-event-178",
+    "matchId": "2022-2023-2022-11-20-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-27-campionato-olimpia-verona-event-179",
+    "matchId": "2022-2023-2022-11-27-campionato-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-11-27-campionato-olimpia-verona-event-180",
+    "matchId": "2022-2023-2022-11-27-campionato-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-12-04-campionato-lessinia-event-181",
+    "matchId": "2022-2023-2022-12-04-campionato-lessinia",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-12-04-campionato-lessinia-event-182",
+    "matchId": "2022-2023-2022-12-04-campionato-lessinia",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-12-22-campionato-virtus-united-event-183",
+    "matchId": "2022-2023-2022-12-22-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2022-12-22-campionato-virtus-united-event-184",
+    "matchId": "2022-2023-2022-12-22-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-15-campionato-arbizzano-event-185",
+    "matchId": "2022-2023-2023-01-15-campionato-arbizzano",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-15-campionato-arbizzano-event-186",
+    "matchId": "2022-2023-2023-01-15-campionato-arbizzano",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-22-campionato-pizzoletta-event-187",
+    "matchId": "2022-2023-2023-01-22-campionato-pizzoletta",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-22-campionato-pizzoletta-event-188",
+    "matchId": "2022-2023-2023-01-22-campionato-pizzoletta",
+    "seasonId": "2022-2023",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-29-campionato-alpo-lepanto-event-189",
+    "matchId": "2022-2023-2023-01-29-campionato-alpo-lepanto",
+    "seasonId": "2022-2023",
+    "playerId": "olivieri-m",
+    "playerName": "Olivieri M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-29-campionato-alpo-lepanto-event-190",
+    "matchId": "2022-2023-2023-01-29-campionato-alpo-lepanto",
+    "seasonId": "2022-2023",
+    "playerId": "spada-f",
+    "playerName": "Spada F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-29-campionato-alpo-lepanto-event-191",
+    "matchId": "2022-2023-2023-01-29-campionato-alpo-lepanto",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-01-29-campionato-alpo-lepanto-event-192",
+    "matchId": "2022-2023-2023-01-29-campionato-alpo-lepanto",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-05-campionato-cadore-event-193",
+    "matchId": "2022-2023-2023-02-05-campionato-cadore",
+    "seasonId": "2022-2023",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-05-campionato-cadore-event-194",
+    "matchId": "2022-2023-2023-02-05-campionato-cadore",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-05-campionato-cadore-event-195",
+    "matchId": "2022-2023-2023-02-05-campionato-cadore",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-12-campionato-avesa-event-196",
+    "matchId": "2022-2023-2023-02-12-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-12-campionato-avesa-event-197",
+    "matchId": "2022-2023-2023-02-12-campionato-avesa",
+    "seasonId": "2022-2023",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-19-campionato-juventina-valpantena-event-198",
+    "matchId": "2022-2023-2023-02-19-campionato-juventina-valpantena",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-19-campionato-juventina-valpantena-event-199",
+    "matchId": "2022-2023-2023-02-19-campionato-juventina-valpantena",
+    "seasonId": "2022-2023",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-19-campionato-juventina-valpantena-event-200",
+    "matchId": "2022-2023-2023-02-19-campionato-juventina-valpantena",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-19-campionato-juventina-valpantena-event-201",
+    "matchId": "2022-2023-2023-02-19-campionato-juventina-valpantena",
+    "seasonId": "2022-2023",
+    "playerId": "spada-f",
+    "playerName": "Spada F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-26-campionato-gabetti-valeggio-event-202",
+    "matchId": "2022-2023-2023-02-26-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-26-campionato-gabetti-valeggio-event-203",
+    "matchId": "2022-2023-2023-02-26-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-26-campionato-gabetti-valeggio-event-204",
+    "matchId": "2022-2023-2023-02-26-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-02-26-campionato-gabetti-valeggio-event-205",
+    "matchId": "2022-2023-2023-02-26-campionato-gabetti-valeggio",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-05-campionato-rosegaferro-event-206",
+    "matchId": "2022-2023-2023-03-05-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-12-campionato-san-massimo-event-207",
+    "matchId": "2022-2023-2023-03-12-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-12-campionato-san-massimo-event-208",
+    "matchId": "2022-2023-2023-03-12-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-12-campionato-san-massimo-event-209",
+    "matchId": "2022-2023-2023-03-12-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "olivieri-m",
+    "playerName": "Olivieri M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-12-campionato-san-massimo-event-210",
+    "matchId": "2022-2023-2023-03-12-campionato-san-massimo",
+    "seasonId": "2022-2023",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-19-campionato-parona-event-211",
+    "matchId": "2022-2023-2023-03-19-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-19-campionato-parona-event-212",
+    "matchId": "2022-2023-2023-03-19-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "spada-f",
+    "playerName": "Spada F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-19-campionato-parona-event-213",
+    "matchId": "2022-2023-2023-03-19-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-19-campionato-parona-event-214",
+    "matchId": "2022-2023-2023-03-19-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-19-campionato-parona-event-215",
+    "matchId": "2022-2023-2023-03-19-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-19-campionato-parona-event-216",
+    "matchId": "2022-2023-2023-03-19-campionato-parona",
+    "seasonId": "2022-2023",
+    "playerId": "olivieri-m",
+    "playerName": "Olivieri M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-26-campionato-olimpia-verona-event-217",
+    "matchId": "2022-2023-2023-03-26-campionato-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-26-campionato-olimpia-verona-event-218",
+    "matchId": "2022-2023-2023-03-26-campionato-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-26-campionato-olimpia-verona-event-219",
+    "matchId": "2022-2023-2023-03-26-campionato-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-03-26-campionato-olimpia-verona-event-220",
+    "matchId": "2022-2023-2023-03-26-campionato-olimpia-verona",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-02-campionato-lessinia-event-221",
+    "matchId": "2022-2023-2023-04-02-campionato-lessinia",
+    "seasonId": "2022-2023",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-02-campionato-lessinia-event-222",
+    "matchId": "2022-2023-2023-04-02-campionato-lessinia",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-02-campionato-lessinia-event-223",
+    "matchId": "2022-2023-2023-04-02-campionato-lessinia",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-224",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-225",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-226",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-227",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-228",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-229",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-230",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-16-campionato-virtus-united-event-231",
+    "matchId": "2022-2023-2023-04-16-campionato-virtus-united",
+    "seasonId": "2022-2023",
+    "playerId": "spada-f",
+    "playerName": "Spada F.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-30-campionato-rosegaferro-event-232",
+    "matchId": "2022-2023-2023-04-30-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-30-campionato-rosegaferro-event-233",
+    "matchId": "2022-2023-2023-04-30-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "benetti-t",
+    "playerName": "Benetti T.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-30-campionato-rosegaferro-event-234",
+    "matchId": "2022-2023-2023-04-30-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-04-30-campionato-rosegaferro-event-235",
+    "matchId": "2022-2023-2023-04-30-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-05-07-campionato-rosegaferro-event-236",
+    "matchId": "2022-2023-2023-05-07-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2022-2023-2023-05-07-campionato-rosegaferro-event-237",
+    "matchId": "2022-2023-2023-05-07-campionato-rosegaferro",
+    "seasonId": "2022-2023",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-17-campionato-life-1929-event-238",
+    "matchId": "2023-2024-2023-09-17-campionato-life-1929",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-17-campionato-life-1929-event-239",
+    "matchId": "2023-2024-2023-09-17-campionato-life-1929",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-24-campionato-palazzolo-event-240",
+    "matchId": "2023-2024-2023-09-24-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-24-campionato-palazzolo-event-241",
+    "matchId": "2023-2024-2023-09-24-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-24-campionato-palazzolo-event-242",
+    "matchId": "2023-2024-2023-09-24-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-24-campionato-palazzolo-event-243",
+    "matchId": "2023-2024-2023-09-24-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-24-campionato-palazzolo-event-244",
+    "matchId": "2023-2024-2023-09-24-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-24-campionato-palazzolo-event-245",
+    "matchId": "2023-2024-2023-09-24-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-246",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-247",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-248",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-249",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "olivieri-m",
+    "playerName": "Olivieri M.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-250",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-251",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-252",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-253",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-254",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-255",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-09-30-campionato-valdadige-event-256",
+    "matchId": "2023-2024-2023-09-30-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna-event-257",
+    "matchId": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna-event-258",
+    "matchId": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna-event-259",
+    "matchId": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-15-campionato-young-boys-event-260",
+    "matchId": "2023-2024-2023-10-15-campionato-young-boys",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-15-campionato-young-boys-event-261",
+    "matchId": "2023-2024-2023-10-15-campionato-young-boys",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-22-campionato-la-vetta-event-262",
+    "matchId": "2023-2024-2023-10-22-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-22-campionato-la-vetta-event-263",
+    "matchId": "2023-2024-2023-10-22-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-22-campionato-la-vetta-event-264",
+    "matchId": "2023-2024-2023-10-22-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-29-campionato-pizzoletta-event-265",
+    "matchId": "2023-2024-2023-10-29-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-29-campionato-pizzoletta-event-266",
+    "matchId": "2023-2024-2023-10-29-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-10-29-campionato-pizzoletta-event-267",
+    "matchId": "2023-2024-2023-10-29-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-268",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-269",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-270",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-271",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "scala-g",
+    "playerName": "Scala G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-272",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-273",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-274",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-275",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-276",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-277",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-278",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "via-f",
+    "playerName": "Via F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-279",
+    "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-05-campionato-corbiolo-event-280",
+    "matchId": "2023-2024-2023-11-05-campionato-corbiolo",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-05-campionato-corbiolo-event-281",
+    "matchId": "2023-2024-2023-11-05-campionato-corbiolo",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-282",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-283",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-284",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-285",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-286",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-287",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-20-campionato-union-best-event-288",
+    "matchId": "2023-2024-2023-11-20-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-27-campionato-saval-maddalena-event-289",
+    "matchId": "2023-2024-2023-11-27-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-27-campionato-saval-maddalena-event-290",
+    "matchId": "2023-2024-2023-11-27-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-11-27-campionato-saval-maddalena-event-291",
+    "matchId": "2023-2024-2023-11-27-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-03-campionato-bardolino-event-292",
+    "matchId": "2023-2024-2023-12-03-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-03-campionato-bardolino-event-293",
+    "matchId": "2023-2024-2023-12-03-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-03-campionato-bardolino-event-294",
+    "matchId": "2023-2024-2023-12-03-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-295",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-296",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-297",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-298",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-299",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-300",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-301",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-302",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-303",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-12-17-campionato-negrar-event-304",
+    "matchId": "2023-2024-2023-12-17-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-14-campionato-life-1929-event-305",
+    "matchId": "2023-2024-2024-01-14-campionato-life-1929",
+    "seasonId": "2023-2024",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-14-campionato-life-1929-event-306",
+    "matchId": "2023-2024-2024-01-14-campionato-life-1929",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-21-campionato-palazzolo-event-307",
+    "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-21-campionato-palazzolo-event-308",
+    "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-21-campionato-palazzolo-event-309",
+    "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-21-campionato-palazzolo-event-310",
+    "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-21-campionato-palazzolo-event-311",
+    "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "via-f",
+    "playerName": "Via F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-21-campionato-palazzolo-event-312",
+    "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-01-28-campionato-valdadige-event-313",
+    "matchId": "2023-2024-2024-01-28-campionato-valdadige",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna-event-314",
+    "matchId": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna-event-315",
+    "matchId": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna-event-316",
+    "matchId": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna-event-317",
+    "matchId": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "signorini-f",
+    "playerName": "Signorini F.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-18-campionato-la-vetta-event-318",
+    "matchId": "2023-2024-2024-02-18-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-18-campionato-la-vetta-event-319",
+    "matchId": "2023-2024-2024-02-18-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-18-campionato-la-vetta-event-320",
+    "matchId": "2023-2024-2024-02-18-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-18-campionato-la-vetta-event-321",
+    "matchId": "2023-2024-2024-02-18-campionato-la-vetta",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-25-campionato-pizzoletta-event-322",
+    "matchId": "2023-2024-2024-02-25-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-25-campionato-pizzoletta-event-323",
+    "matchId": "2023-2024-2024-02-25-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-25-campionato-pizzoletta-event-324",
+    "matchId": "2023-2024-2024-02-25-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-02-25-campionato-pizzoletta-event-325",
+    "matchId": "2023-2024-2024-02-25-campionato-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-03-06-campionato-young-boys-event-326",
+    "matchId": "2023-2024-2023-03-06-campionato-young-boys",
+    "seasonId": "2023-2024",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2023-03-06-campionato-young-boys-event-327",
+    "matchId": "2023-2024-2023-03-06-campionato-young-boys",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-328",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-329",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-330",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-331",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-332",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-333",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-17-campionato-union-best-event-334",
+    "matchId": "2023-2024-2024-03-17-campionato-union-best",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-20-campionato-corbiolo-event-335",
+    "matchId": "2023-2024-2024-03-20-campionato-corbiolo",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-20-campionato-corbiolo-event-336",
+    "matchId": "2023-2024-2024-03-20-campionato-corbiolo",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-20-campionato-corbiolo-event-337",
+    "matchId": "2023-2024-2024-03-20-campionato-corbiolo",
+    "seasonId": "2023-2024",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-20-campionato-corbiolo-event-338",
+    "matchId": "2023-2024-2024-03-20-campionato-corbiolo",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-339",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-340",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-341",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-342",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "fasoli-m",
+    "playerName": "Fasoli M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-343",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-344",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "rossi-d",
+    "playerName": "Rossi D.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-345",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-346",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "via-f",
+    "playerName": "Via F.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-347",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "francesco-m",
+    "playerName": "Francesco M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-348",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-349",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-350",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-351",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-352",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "crisci-t",
+    "playerName": "Crisci T.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-353",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-354",
+    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
+    "seasonId": "2023-2024",
+    "playerId": "bortoletto-s",
+    "playerName": "Bortoletto S.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-30-campionato-pieve-san-floriano-event-355",
+    "matchId": "2023-2024-2024-03-30-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-03-30-campionato-pieve-san-floriano-event-356",
+    "matchId": "2023-2024-2024-03-30-campionato-pieve-san-floriano",
+    "seasonId": "2023-2024",
+    "playerId": "storti-e",
+    "playerName": "Storti E.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-04-campionato-crazy-academy-event-357",
+    "matchId": "2023-2024-2024-04-04-campionato-crazy-academy",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-07-campionato-bardolino-event-358",
+    "matchId": "2023-2024-2024-04-07-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-07-campionato-bardolino-event-359",
+    "matchId": "2023-2024-2024-04-07-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-07-campionato-bardolino-event-360",
+    "matchId": "2023-2024-2024-04-07-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-07-campionato-bardolino-event-361",
+    "matchId": "2023-2024-2024-04-07-campionato-bardolino",
+    "seasonId": "2023-2024",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-14-campionato-torri-event-362",
+    "matchId": "2023-2024-2024-04-14-campionato-torri",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-14-campionato-torri-event-363",
+    "matchId": "2023-2024-2024-04-14-campionato-torri",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-14-campionato-torri-event-364",
+    "matchId": "2023-2024-2024-04-14-campionato-torri",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-14-campionato-torri-event-365",
+    "matchId": "2023-2024-2024-04-14-campionato-torri",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-14-campionato-torri-event-366",
+    "matchId": "2023-2024-2024-04-14-campionato-torri",
+    "seasonId": "2023-2024",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-04-21-campionato-negrar-event-367",
+    "matchId": "2023-2024-2024-04-21-campionato-negrar",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-05-coppa-verona-trevenzuolo-event-368",
+    "matchId": "2023-2024-2024-05-05-coppa-verona-trevenzuolo",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-05-coppa-verona-trevenzuolo-event-369",
+    "matchId": "2023-2024-2024-05-05-coppa-verona-trevenzuolo",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-08-coppa-verona-raldon-event-370",
+    "matchId": "2023-2024-2024-05-08-coppa-verona-raldon",
+    "seasonId": "2023-2024",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-08-coppa-verona-raldon-event-371",
+    "matchId": "2023-2024-2024-05-08-coppa-verona-raldon",
+    "seasonId": "2023-2024",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-08-coppa-verona-raldon-event-372",
+    "matchId": "2023-2024-2024-05-08-coppa-verona-raldon",
+    "seasonId": "2023-2024",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-08-coppa-verona-raldon-event-373",
+    "matchId": "2023-2024-2024-05-08-coppa-verona-raldon",
+    "seasonId": "2023-2024",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-11-coppa-verona-san-zeno-di-montagna-event-374",
+    "matchId": "2023-2024-2024-05-11-coppa-verona-san-zeno-di-montagna",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli-event-375",
+    "matchId": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli-event-376",
+    "matchId": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli-event-377",
+    "matchId": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli-event-378",
+    "matchId": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli",
+    "seasonId": "2023-2024",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli-event-379",
+    "matchId": "2023-2024-2024-05-27-coppa-verona-colognola-ai-colli",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-02-coppa-verona-casaleone-event-380",
+    "matchId": "2023-2024-2024-06-02-coppa-verona-casaleone",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-02-coppa-verona-casaleone-event-381",
+    "matchId": "2023-2024-2024-06-02-coppa-verona-casaleone",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-02-coppa-verona-casaleone-event-382",
+    "matchId": "2023-2024-2024-06-02-coppa-verona-casaleone",
+    "seasonId": "2023-2024",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-08-coppa-verona-pizzoletta-event-383",
+    "matchId": "2023-2024-2024-06-08-coppa-verona-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-08-coppa-verona-pizzoletta-event-384",
+    "matchId": "2023-2024-2024-06-08-coppa-verona-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-08-coppa-verona-pizzoletta-event-385",
+    "matchId": "2023-2024-2024-06-08-coppa-verona-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-08-coppa-verona-pizzoletta-event-386",
+    "matchId": "2023-2024-2024-06-08-coppa-verona-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-08-coppa-verona-pizzoletta-event-387",
+    "matchId": "2023-2024-2024-06-08-coppa-verona-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2023-2024-2024-06-08-coppa-verona-pizzoletta-event-388",
+    "matchId": "2023-2024-2024-06-08-coppa-verona-pizzoletta",
+    "seasonId": "2023-2024",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-08-25-coppa-veneto-sommacustoza-event-389",
+    "matchId": "2024-2025-2024-08-25-coppa-veneto-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-08-25-coppa-veneto-sommacustoza-event-390",
+    "matchId": "2024-2025-2024-08-25-coppa-veneto-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-08-25-coppa-veneto-sommacustoza-event-391",
+    "matchId": "2024-2025-2024-08-25-coppa-veneto-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "storti-e",
+    "playerName": "Storti E.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-01-coppa-veneto-san-zeno-event-392",
+    "matchId": "2024-2025-2024-09-01-coppa-veneto-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-18-coppa-veneto-parona-event-393",
+    "matchId": "2024-2025-2024-09-18-coppa-veneto-parona",
+    "seasonId": "2024-2025",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-18-coppa-veneto-parona-event-394",
+    "matchId": "2024-2025-2024-09-18-coppa-veneto-parona",
+    "seasonId": "2024-2025",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-08-campionato-burecorrubbio-event-395",
+    "matchId": "2024-2025-2024-09-08-campionato-burecorrubbio",
+    "seasonId": "2024-2025",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-08-campionato-burecorrubbio-event-396",
+    "matchId": "2024-2025-2024-09-08-campionato-burecorrubbio",
+    "seasonId": "2024-2025",
+    "playerId": "zago-m",
+    "playerName": "Zago M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-15-campionato-rivoli-event-397",
+    "matchId": "2024-2025-2024-09-15-campionato-rivoli",
+    "seasonId": "2024-2025",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-15-campionato-rivoli-event-398",
+    "matchId": "2024-2025-2024-09-15-campionato-rivoli",
+    "seasonId": "2024-2025",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-15-campionato-rivoli-event-399",
+    "matchId": "2024-2025-2024-09-15-campionato-rivoli",
+    "seasonId": "2024-2025",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-22-campionato-torri-event-400",
+    "matchId": "2024-2025-2024-09-22-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-22-campionato-torri-event-401",
+    "matchId": "2024-2025-2024-09-22-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-22-campionato-torri-event-402",
+    "matchId": "2024-2025-2024-09-22-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-22-campionato-torri-event-403",
+    "matchId": "2024-2025-2024-09-22-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-22-campionato-torri-event-404",
+    "matchId": "2024-2025-2024-09-22-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-22-campionato-torri-event-405",
+    "matchId": "2024-2025-2024-09-22-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-29-campionato-bardolino-event-406",
+    "matchId": "2024-2025-2024-09-29-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-29-campionato-bardolino-event-407",
+    "matchId": "2024-2025-2024-09-29-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-29-campionato-bardolino-event-408",
+    "matchId": "2024-2025-2024-09-29-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-10-06-campionato-sommacustoza-event-409",
+    "matchId": "2024-2025-2024-10-06-campionato-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-10-06-campionato-sommacustoza-event-410",
+    "matchId": "2024-2025-2024-10-06-campionato-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-10-27-campionato-cola-villa-dei-cedri-event-411",
+    "matchId": "2024-2025-2024-10-27-campionato-cola-villa-dei-cedri",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-10-27-campionato-cola-villa-dei-cedri-event-412",
+    "matchId": "2024-2025-2024-10-27-campionato-cola-villa-dei-cedri",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-413",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-414",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-415",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-416",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-417",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-418",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-03-campionato-parona-event-419",
+    "matchId": "2024-2025-2024-11-03-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-10-campionato-lazise-event-420",
+    "matchId": "2024-2025-2024-11-10-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-10-campionato-lazise-event-421",
+    "matchId": "2024-2025-2024-11-10-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-10-campionato-lazise-event-422",
+    "matchId": "2024-2025-2024-11-10-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-17-campionato-santanna-dalfaedo-event-423",
+    "matchId": "2024-2025-2024-11-17-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-17-campionato-santanna-dalfaedo-event-424",
+    "matchId": "2024-2025-2024-11-17-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-17-campionato-santanna-dalfaedo-event-425",
+    "matchId": "2024-2025-2024-11-17-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-11-24-campionato-cisano-juventina-bardolino-event-426",
+    "matchId": "2024-2025-2024-11-24-campionato-cisano-juventina-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-01-campionato-la-vetta-event-427",
+    "matchId": "2024-2025-2024-12-01-campionato-la-vetta",
+    "seasonId": "2024-2025",
+    "playerId": "crisci-t",
+    "playerName": "Crisci T.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-01-campionato-la-vetta-event-428",
+    "matchId": "2024-2025-2024-12-01-campionato-la-vetta",
+    "seasonId": "2024-2025",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-01-campionato-la-vetta-event-429",
+    "matchId": "2024-2025-2024-12-01-campionato-la-vetta",
+    "seasonId": "2024-2025",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-08-campionato-san-zeno-event-430",
+    "matchId": "2024-2025-2024-12-08-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "matenin-t",
+    "playerName": "Matenin T.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-08-campionato-san-zeno-event-431",
+    "matchId": "2024-2025-2024-12-08-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "via-a",
+    "playerName": "Via A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-08-campionato-san-zeno-event-432",
+    "matchId": "2024-2025-2024-12-08-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-15-campionato-fumanese-event-433",
+    "matchId": "2024-2025-2024-12-15-campionato-fumanese",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-12-22-campionato-calmasino-event-434",
+    "matchId": "2024-2025-2024-12-22-campionato-calmasino",
+    "seasonId": "2024-2025",
+    "playerId": "tommasi-d",
+    "playerName": "Tommasi D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-12-campionato-rivoli-event-435",
+    "matchId": "2024-2025-2025-01-12-campionato-rivoli",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-12-campionato-rivoli-event-436",
+    "matchId": "2024-2025-2025-01-12-campionato-rivoli",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-19-campionato-torri-event-437",
+    "matchId": "2024-2025-2025-01-19-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-19-campionato-torri-event-438",
+    "matchId": "2024-2025-2025-01-19-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-19-campionato-torri-event-439",
+    "matchId": "2024-2025-2025-01-19-campionato-torri",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-26-campionato-bardolino-event-440",
+    "matchId": "2024-2025-2025-01-26-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-26-campionato-bardolino-event-441",
+    "matchId": "2024-2025-2025-01-26-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-01-26-campionato-bardolino-event-442",
+    "matchId": "2024-2025-2025-01-26-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-02-campionato-sommacustoza-event-443",
+    "matchId": "2024-2025-2025-02-02-campionato-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-02-campionato-sommacustoza-event-444",
+    "matchId": "2024-2025-2025-02-02-campionato-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-02-campionato-sommacustoza-event-445",
+    "matchId": "2024-2025-2025-02-02-campionato-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-02-campionato-sommacustoza-event-446",
+    "matchId": "2024-2025-2025-02-02-campionato-sommacustoza",
+    "seasonId": "2024-2025",
+    "playerId": "via-f",
+    "playerName": "Via F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-09-campionato-caprino-event-447",
+    "matchId": "2024-2025-2025-02-09-campionato-caprino",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-16-campionato-calmasino-event-448",
+    "matchId": "2024-2025-2025-02-16-campionato-calmasino",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-16-campionato-calmasino-event-449",
+    "matchId": "2024-2025-2025-02-16-campionato-calmasino",
+    "seasonId": "2024-2025",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-16-campionato-calmasino-event-450",
+    "matchId": "2024-2025-2025-02-16-campionato-calmasino",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-23-campionato-cola-villa-dei-cedri-event-451",
+    "matchId": "2024-2025-2025-02-23-campionato-cola-villa-dei-cedri",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-23-campionato-cola-villa-dei-cedri-event-452",
+    "matchId": "2024-2025-2025-02-23-campionato-cola-villa-dei-cedri",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-02-23-campionato-cola-villa-dei-cedri-event-453",
+    "matchId": "2024-2025-2025-02-23-campionato-cola-villa-dei-cedri",
+    "seasonId": "2024-2025",
+    "playerId": "danquah-j",
+    "playerName": "Danquah J.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-02-campionato-parona-event-454",
+    "matchId": "2024-2025-2025-03-02-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-02-campionato-parona-event-455",
+    "matchId": "2024-2025-2025-03-02-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "danquah-k",
+    "playerName": "Danquah K.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-02-campionato-parona-event-456",
+    "matchId": "2024-2025-2025-03-02-campionato-parona",
+    "seasonId": "2024-2025",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-09-campionato-lazise-event-457",
+    "matchId": "2024-2025-2025-03-09-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-09-campionato-lazise-event-458",
+    "matchId": "2024-2025-2025-03-09-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "matenin-t",
+    "playerName": "Matenin T.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-09-campionato-lazise-event-459",
+    "matchId": "2024-2025-2025-03-09-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-09-campionato-lazise-event-460",
+    "matchId": "2024-2025-2025-03-09-campionato-lazise",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-16-campionato-santanna-dalfaedo-event-461",
+    "matchId": "2024-2025-2025-03-16-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-16-campionato-santanna-dalfaedo-event-462",
+    "matchId": "2024-2025-2025-03-16-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-16-campionato-santanna-dalfaedo-event-463",
+    "matchId": "2024-2025-2025-03-16-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "via-a",
+    "playerName": "Via A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-23-campionato-cisano-juventina-bardolino-event-464",
+    "matchId": "2024-2025-2025-03-23-campionato-cisano-juventina-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "via-a",
+    "playerName": "Via A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-23-campionato-cisano-juventina-bardolino-event-465",
+    "matchId": "2024-2025-2025-03-23-campionato-cisano-juventina-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-03-30-campionato-la-vetta-event-466",
+    "matchId": "2024-2025-2025-03-30-campionato-la-vetta",
+    "seasonId": "2024-2025",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-06-campionato-san-zeno-event-467",
+    "matchId": "2024-2025-2025-04-06-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "danquah-k",
+    "playerName": "Danquah K.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-06-campionato-san-zeno-event-468",
+    "matchId": "2024-2025-2025-04-06-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-06-campionato-san-zeno-event-469",
+    "matchId": "2024-2025-2025-04-06-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "via-a",
+    "playerName": "Via A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-06-campionato-san-zeno-event-470",
+    "matchId": "2024-2025-2025-04-06-campionato-san-zeno",
+    "seasonId": "2024-2025",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-13-campionato-fumanese-event-471",
+    "matchId": "2024-2025-2025-04-13-campionato-fumanese",
+    "seasonId": "2024-2025",
+    "playerId": "matenin-t",
+    "playerName": "Matenin T.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-13-campionato-fumanese-event-472",
+    "matchId": "2024-2025-2025-04-13-campionato-fumanese",
+    "seasonId": "2024-2025",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-04-27-campionato-burecorrubbio-event-473",
+    "matchId": "2024-2025-2025-04-27-campionato-burecorrubbio",
+    "seasonId": "2024-2025",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2025-05-11-campionato-santanna-dalfaedo-event-474",
+    "matchId": "2024-2025-2025-05-11-campionato-santanna-dalfaedo",
+    "seasonId": "2024-2025",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-09-28-campionato-rivoli-event-475",
+    "matchId": "2025-2026-2025-09-28-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-09-28-campionato-rivoli-event-476",
+    "matchId": "2025-2026-2025-09-28-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "tommasi-d",
+    "playerName": "Tommasi D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-09-28-campionato-rivoli-event-477",
+    "matchId": "2025-2026-2025-09-28-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-09-28-campionato-rivoli-event-478",
+    "matchId": "2025-2026-2025-09-28-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-09-28-campionato-rivoli-event-479",
+    "matchId": "2025-2026-2025-09-28-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-09-28-campionato-rivoli-event-480",
+    "matchId": "2025-2026-2025-09-28-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "tommasi-d",
+    "playerName": "Tommasi D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna-event-481",
+    "matchId": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna",
+    "seasonId": "2025-2026",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna-event-482",
+    "matchId": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna",
+    "seasonId": "2025-2026",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-12-campionato-sommacustoza-b-event-483",
+    "matchId": "2025-2026-2025-10-12-campionato-sommacustoza-b",
+    "seasonId": "2025-2026",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-12-campionato-sommacustoza-b-event-484",
+    "matchId": "2025-2026-2025-10-12-campionato-sommacustoza-b",
+    "seasonId": "2025-2026",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-12-campionato-sommacustoza-b-event-485",
+    "matchId": "2025-2026-2025-10-12-campionato-sommacustoza-b",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-12-campionato-sommacustoza-b-event-486",
+    "matchId": "2025-2026-2025-10-12-campionato-sommacustoza-b",
+    "seasonId": "2025-2026",
+    "playerId": "bortolotti-s",
+    "playerName": "Bortolotti S.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-19-campionato-cavaion-event-487",
+    "matchId": "2025-2026-2025-10-19-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-19-campionato-cavaion-event-488",
+    "matchId": "2025-2026-2025-10-19-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-19-campionato-cavaion-event-489",
+    "matchId": "2025-2026-2025-10-19-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-26-campionato-palazzolo-event-490",
+    "matchId": "2025-2026-2025-10-26-campionato-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-10-26-campionato-palazzolo-event-491",
+    "matchId": "2025-2026-2025-10-26-campionato-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-02-campionato-rosegaferro-event-492",
+    "matchId": "2025-2026-2025-11-02-campionato-rosegaferro",
+    "seasonId": "2025-2026",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-02-campionato-rosegaferro-event-493",
+    "matchId": "2025-2026-2025-11-02-campionato-rosegaferro",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-02-campionato-rosegaferro-event-494",
+    "matchId": "2025-2026-2025-11-02-campionato-rosegaferro",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-02-campionato-rosegaferro-event-495",
+    "matchId": "2025-2026-2025-11-02-campionato-rosegaferro",
+    "seasonId": "2025-2026",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-09-campionato-pieve-san-floriano-event-496",
+    "matchId": "2025-2026-2025-11-09-campionato-pieve-san-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-09-campionato-pieve-san-floriano-event-497",
+    "matchId": "2025-2026-2025-11-09-campionato-pieve-san-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-09-campionato-pieve-san-floriano-event-498",
+    "matchId": "2025-2026-2025-11-09-campionato-pieve-san-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-09-campionato-pieve-san-floriano-event-499",
+    "matchId": "2025-2026-2025-11-09-campionato-pieve-san-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-09-campionato-pieve-san-floriano-event-500",
+    "matchId": "2025-2026-2025-11-09-campionato-pieve-san-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "squaranti-l",
+    "playerName": "Squaranti L.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-16-campionato-team-san-lorenzo-event-501",
+    "matchId": "2025-2026-2025-11-16-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "bortolotti-s",
+    "playerName": "Bortolotti S.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-16-campionato-team-san-lorenzo-event-502",
+    "matchId": "2025-2026-2025-11-16-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-16-campionato-team-san-lorenzo-event-503",
+    "matchId": "2025-2026-2025-11-16-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "cottini-a",
+    "playerName": "Cottini A.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-16-campionato-team-san-lorenzo-event-504",
+    "matchId": "2025-2026-2025-11-16-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-data-da-verificare-campionato-valdadige-event-505",
+    "matchId": "2025-2026-data-da-verificare-campionato-valdadige",
+    "seasonId": "2025-2026",
+    "playerId": "cipriani-s",
+    "playerName": "Cipriani S.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-29-campionato-garda-event-506",
+    "matchId": "2025-2026-2025-11-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-29-campionato-garda-event-507",
+    "matchId": "2025-2026-2025-11-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-29-campionato-garda-event-508",
+    "matchId": "2025-2026-2025-11-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-11-29-campionato-garda-event-509",
+    "matchId": "2025-2026-2025-11-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-12-07-campionato-lovers-palazzolo-event-510",
+    "matchId": "2025-2026-2025-12-07-campionato-lovers-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2025-12-07-campionato-lovers-palazzolo-event-511",
+    "matchId": "2025-2026-2025-12-07-campionato-lovers-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-25-campionato-rivoli-event-512",
+    "matchId": "2025-2026-2026-01-25-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-25-campionato-rivoli-event-513",
+    "matchId": "2025-2026-2026-01-25-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-25-campionato-rivoli-event-514",
+    "matchId": "2025-2026-2026-01-25-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-25-campionato-rivoli-event-515",
+    "matchId": "2025-2026-2026-01-25-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna-event-516",
+    "matchId": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna-event-517",
+    "matchId": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna-event-518",
+    "matchId": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna",
+    "seasonId": "2025-2026",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna-event-519",
+    "matchId": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna",
+    "seasonId": "2025-2026",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-09-campionato-sommacustoza-b-event-520",
+    "matchId": "2025-2026-2026-02-09-campionato-sommacustoza-b",
+    "seasonId": "2025-2026",
+    "playerId": "lukaj-c",
+    "playerName": "Lukaj C.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-09-campionato-sommacustoza-b-event-521",
+    "matchId": "2025-2026-2026-02-09-campionato-sommacustoza-b",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-15-campionato-cavaion-event-522",
+    "matchId": "2025-2026-2026-02-15-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "parlato-a",
+    "playerName": "Parlato A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-15-campionato-cavaion-event-523",
+    "matchId": "2025-2026-2026-02-15-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-15-campionato-cavaion-event-524",
+    "matchId": "2025-2026-2026-02-15-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-15-campionato-cavaion-event-525",
+    "matchId": "2025-2026-2026-02-15-campionato-cavaion",
+    "seasonId": "2025-2026",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-21-campionato-palazzolo-event-526",
+    "matchId": "2025-2026-2026-02-21-campionato-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-02-21-campionato-palazzolo-event-527",
+    "matchId": "2025-2026-2026-02-21-campionato-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "bortolotti-s",
+    "playerName": "Bortolotti S.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-01-campionato-rosegaferro-event-528",
+    "matchId": "2025-2026-2026-03-01-campionato-rosegaferro",
+    "seasonId": "2025-2026",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-event-529",
+    "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "lukaj-c",
+    "playerName": "Lukaj C.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-event-530",
+    "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-event-531",
+    "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "cottini-a",
+    "playerName": "Cottini A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-event-532",
+    "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "guarise-b",
+    "playerName": "Guarise B.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-event-533",
+    "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "cipriani-s",
+    "playerName": "Cipriani S.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-event-534",
+    "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-15-campionato-team-san-lorenzo-event-535",
+    "matchId": "2025-2026-2026-03-15-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-15-campionato-team-san-lorenzo-event-536",
+    "matchId": "2025-2026-2026-03-15-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-15-campionato-team-san-lorenzo-event-537",
+    "matchId": "2025-2026-2026-03-15-campionato-team-san-lorenzo",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-22-campionato-valdadige-event-538",
+    "matchId": "2025-2026-2026-03-22-campionato-valdadige",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-22-campionato-valdadige-event-539",
+    "matchId": "2025-2026-2026-03-22-campionato-valdadige",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-22-campionato-valdadige-event-540",
+    "matchId": "2025-2026-2026-03-22-campionato-valdadige",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-22-campionato-valdadige-event-541",
+    "matchId": "2025-2026-2026-03-22-campionato-valdadige",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-22-campionato-valdadige-event-542",
+    "matchId": "2025-2026-2026-03-22-campionato-valdadige",
+    "seasonId": "2025-2026",
+    "playerId": "cataldo-o",
+    "playerName": "Cataldo O.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-29-campionato-garda-event-543",
+    "matchId": "2025-2026-2026-03-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-29-campionato-garda-event-544",
+    "matchId": "2025-2026-2026-03-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-29-campionato-garda-event-545",
+    "matchId": "2025-2026-2026-03-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-29-campionato-garda-event-546",
+    "matchId": "2025-2026-2026-03-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-03-29-campionato-garda-event-547",
+    "matchId": "2025-2026-2026-03-29-campionato-garda",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-04-12-campionato-lovers-palazzolo-event-548",
+    "matchId": "2025-2026-2026-04-12-campionato-lovers-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-04-12-campionato-lovers-palazzolo-event-549",
+    "matchId": "2025-2026-2026-04-12-campionato-lovers-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-04-12-campionato-lovers-palazzolo-event-550",
+    "matchId": "2025-2026-2026-04-12-campionato-lovers-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "cataldo-o",
+    "playerName": "Cataldo O.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-04-26-campionato-rivoli-event-551",
+    "matchId": "2025-2026-2026-04-26-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-04-26-campionato-rivoli-event-552",
+    "matchId": "2025-2026-2026-04-26-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-04-26-campionato-rivoli-event-553",
+    "matchId": "2025-2026-2026-04-26-campionato-rivoli",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-11-coppa-verona-trevenzuolo-event-554",
+    "matchId": "2025-2026-2026-01-11-coppa-verona-trevenzuolo",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-11-coppa-verona-trevenzuolo-event-555",
+    "matchId": "2025-2026-2026-01-11-coppa-verona-trevenzuolo",
+    "seasonId": "2025-2026",
+    "playerId": "cottini-a",
+    "playerName": "Cottini A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-event-556",
+    "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
+    "seasonId": "2025-2026",
+    "playerId": "cobelli-d",
+    "playerName": "Cobelli D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-event-557",
+    "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-event-558",
+    "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
+    "seasonId": "2025-2026",
+    "playerId": "cottini-a",
+    "playerName": "Cottini A.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-event-559",
+    "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-event-560",
+    "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
+    "seasonId": "2025-2026",
+    "playerId": "cipriani-n",
+    "playerName": "Cipriani N.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-03-coppa-verona-pieve-san-floriano-event-561",
+    "matchId": "2025-2026-2026-05-03-coppa-verona-pieve-san-floriano",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-10-coppa-verona-aurora-cavalponica-event-562",
+    "matchId": "2025-2026-2026-05-10-coppa-verona-aurora-cavalponica",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-10-coppa-verona-aurora-cavalponica-event-563",
+    "matchId": "2025-2026-2026-05-10-coppa-verona-aurora-cavalponica",
+    "seasonId": "2025-2026",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-10-coppa-verona-aurora-cavalponica-event-564",
+    "matchId": "2025-2026-2026-05-10-coppa-verona-aurora-cavalponica",
+    "seasonId": "2025-2026",
+    "playerId": "cataldo-o",
+    "playerName": "Cataldo O.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-17-coppa-verona-evergrin-event-565",
+    "matchId": "2025-2026-2026-05-17-coppa-verona-evergrin",
+    "seasonId": "2025-2026",
+    "playerId": "ferrari-f",
+    "playerName": "Ferrari F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-17-coppa-verona-evergrin-event-566",
+    "matchId": "2025-2026-2026-05-17-coppa-verona-evergrin",
+    "seasonId": "2025-2026",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-567",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-568",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "prato-a",
+    "playerName": "Prato A.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-569",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-570",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-571",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-572",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "tommasi-d",
+    "playerName": "Tommasi D.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-event-573",
+    "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
+    "seasonId": "2025-2026",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-event-574",
+    "matchId": "2025-2026-2026-05-29-coppa-verona-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "goal",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-event-575",
+    "matchId": "2025-2026-2026-05-29-coppa-verona-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "corso-d",
+    "playerName": "Corso D.",
+    "type": "assist",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-event-576",
+    "matchId": "2025-2026-2026-05-29-coppa-verona-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
+    "type": "penalty_scored",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-event-577",
+    "matchId": "2025-2026-2026-05-29-coppa-verona-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-event-578",
+    "matchId": "2025-2026-2026-05-29-coppa-verona-palazzolo",
+    "seasonId": "2025-2026",
+    "playerId": "doardi-m",
+    "playerName": "Doardi M.",
+    "type": "red",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-06-05-coppa-verona-boys-gazzo-event-579",
+    "matchId": "2025-2026-2026-06-05-coppa-verona-boys-gazzo",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-m",
+    "playerName": "Massocco M.",
+    "type": "yellow",
+    "status": "published"
+  },
+  {
+    "id": "2025-2026-2026-06-05-coppa-verona-boys-gazzo-event-580",
+    "matchId": "2025-2026-2026-06-05-coppa-verona-boys-gazzo",
+    "seasonId": "2025-2026",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
+    "type": "yellow",
+    "status": "published"
+  }
+]

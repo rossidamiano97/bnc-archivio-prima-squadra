@@ -1,0 +1,380 @@
+[
+  {
+    "id": "rosegaferro",
+    "name": "Rosegaferro",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "vr-arena",
+    "name": "VR Arena",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "real-vigasio",
+    "name": "Real Vigasio",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "cadore-b",
+    "name": "Cadore B",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "paluani-life",
+    "name": "Paluani Life",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "negrar",
+    "name": "Negrar",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "bardolino",
+    "name": "Bardolino",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "rivoli",
+    "name": "Rivoli",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "fumanese",
+    "name": "Fumanese",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "caprino",
+    "name": "Caprino",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "vigasio",
+    "name": "Vigasio",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "baldo-junior-team",
+    "name": "Baldo Junior Team",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "young-boys",
+    "name": "Young Boys",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "cadore",
+    "name": "Cadore",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "sampietrina",
+    "name": "Sampietrina",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "bonarubiana",
+    "name": "Bonarubiana",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "vestenanova",
+    "name": "Vestenanova",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "ausonia-united",
+    "name": "Ausonia United",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "san-massimo",
+    "name": "San Massimo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "olimpia-verona",
+    "name": "Olimpia Verona",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "arbizzano",
+    "name": "Arbizzano",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "pizzoletta",
+    "name": "Pizzoletta",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "alpo-lepanto",
+    "name": "Alpo Lepanto",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "avesa",
+    "name": "Avesa",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "juventina-valpantena",
+    "name": "Juventina Valpantena",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "gabetti-valeggio",
+    "name": "Gabetti Valeggio",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "parona",
+    "name": "Parona",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "lessinia",
+    "name": "Lessinia",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "virtus-united",
+    "name": "Virtus United",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "life-1929",
+    "name": "Life 1929",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "palazzolo",
+    "name": "Palazzolo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "valdadige",
+    "name": "Valdadige",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "san-zeno-di-montagna",
+    "name": "San Zeno di Montagna",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "la-vetta",
+    "name": "La Vetta",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "pieve-san-floriano",
+    "name": "Pieve San Floriano",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "corbiolo",
+    "name": "Corbiolo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "crazy-academy",
+    "name": "Crazy Academy",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "union-best",
+    "name": "Union Best",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "saval-maddalena",
+    "name": "Saval Maddalena",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "torri",
+    "name": "Torri",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "trevenzuolo",
+    "name": "Trevenzuolo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "raldon",
+    "name": "Raldon",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "colognola-ai-colli",
+    "name": "Colognola ai Colli",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "casaleone",
+    "name": "Casaleone",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "sommacustoza",
+    "name": "Sommacustoza",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "san-zeno",
+    "name": "San Zeno",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "burecorrubbio",
+    "name": "Burecorrubbio",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "cola-villa-dei-cedri",
+    "name": "Colà Villa dei Cedri",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "lazise",
+    "name": "Lazise",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "santanna-dalfaedo",
+    "name": "Sant’Anna d’Alfaedo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "cisano-juventina-bardolino",
+    "name": "Cisano Juventina Bardolino",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "calmasino",
+    "name": "Calmasino",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "sommacustoza-b",
+    "name": "Sommacustoza B",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "cavaion",
+    "name": "Cavaion",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "team-san-lorenzo",
+    "name": "Team San Lorenzo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "garda",
+    "name": "Garda",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "lovers-palazzolo",
+    "name": "Lovers Palazzolo",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "pieve-sa-floriano",
+    "name": "Pieve Sa Floriano",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "san-marco",
+    "name": "San Marco",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "aurora-cavalponica",
+    "name": "Aurora Cavalponica",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "evergrin",
+    "name": "Evergrin",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "brundisium",
+    "name": "Brundisium",
+    "active": false,
+    "status": "published"
+  },
+  {
+    "id": "boys-gazzo",
+    "name": "Boys Gazzo",
+    "active": false,
+    "status": "published"
+  }
+]
