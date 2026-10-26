@@ -8,6 +8,9 @@ import {
   query,
   updateDoc,
   where,
+  writeBatch,
+  setDoc,
+  serverTimestamp,
   type DocumentData,
 } from "firebase/firestore";
 
@@ -98,3 +101,6 @@ export async function isAdmin(
     adminDocument.data().active !== false
   );
 }
+
+export async function listAdminAll<T>(collectionName:string):Promise<T[]>{const snapshot=await getDocs(collection(db,collectionName));return snapshot.docs.map(d=>({id:d.id,...d.data()}) as T)}
+export async function archive(collectionName:string,documentId:string,uid:string):Promise<void>{await updateDoc(doc(db,collectionName,documentId),{status:"archived",active:false,updatedBy:uid,updatedAt:serverTimestamp()})}
