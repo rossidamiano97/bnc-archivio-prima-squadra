@@ -4,12 +4,16 @@ service cloud.firestore {
   function signedIn(){ return request.auth != null; }
   function admin(){ return signedIn() && exists(/databases/$(database)/documents/admins/$(request.auth.uid)) && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.active == true; }
   function validStatus(){ return request.resource.data.status in ['draft','published','archived']; }
+  // Le regole Firestore sono additive: se piu' match coprono lo stesso percorso basta
+  // che UNA conceda l'accesso. Per questo la regola generica esclude le collezioni
+  // protette, altrimenti "admins" e "auditLogs" risulterebbero scrivibili dagli admin.
+  function publicCollection(c){ return c != 'admins' && c != 'auditLogs'; }
   match /admins/{uid} { allow read: if signedIn() && request.auth.uid == uid; allow write: if false; }
   match /auditLogs/{id} { allow read,create: if admin(); allow update,delete: if false; }
   match /{collection}/{document=**} {
-   allow read: if resource.data.status == 'published' || admin();
-   allow create,update: if admin() && validStatus();
-   allow delete: if admin();
+   allow read: if publicCollection(collection) && (resource.data.status == 'published' || admin());
+   allow create,update: if publicCollection(collection) && admin() && validStatus();
+   allow delete: if publicCollection(collection) && admin();
   }
  }
 }
