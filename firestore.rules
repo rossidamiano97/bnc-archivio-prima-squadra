@@ -6,10 +6,13 @@ service cloud.firestore {
   function validStatus(){ return request.resource.data.status in ['draft','published','archived']; }
   match /admins/{uid} { allow read: if signedIn() && request.auth.uid == uid; allow write: if false; }
   match /auditLogs/{id} { allow read,create: if admin(); allow update,delete: if false; }
+  // Le regole di match si sommano (OR): il blocco generico NON deve valere per admins e auditLogs,
+  // altrimenti annulla i divieti di scrittura definiti sopra.
+  function generic(collection){ return collection != 'admins' && collection != 'auditLogs'; }
   match /{collection}/{document=**} {
-   allow read: if resource.data.status == 'published' || admin();
-   allow create,update: if admin() && validStatus();
-   allow delete: if admin();
+   allow read: if generic(collection) && (resource.data.status == 'published' || admin());
+   allow create,update: if generic(collection) && admin() && validStatus();
+   allow delete: if generic(collection) && admin();
   }
  }
 }
