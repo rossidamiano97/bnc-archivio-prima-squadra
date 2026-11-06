@@ -76,3 +76,18 @@
 }
 @media(max-width:420px){.recordcards,.cards{grid-template-columns:repeat(2,minmax(0,1fr))!important}.metricgrid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.card h3{font-size:.8rem}.card strong{font-size:1.55rem}.hero h1{font-size:28px}.season-quick{grid-template-columns:repeat(2,1fr)}}
 
+/* ---- UX: tocco, focus, errore, movimento ridotto ---- */
+:focus-visible{outline:3px solid #007a3d;outline-offset:2px;border-radius:6px}
+header :focus-visible{outline-color:#171717}
+.retry{margin-top:12px;min-height:44px;padding:10px 22px;border:0;border-radius:10px;background:#007a3d;color:#fff;font-weight:700;font-size:1rem;cursor:pointer}
+.loader h2{margin:0 0 6px}
+.loader p{margin:0;color:#586b62}
+.breadcrumbs{color:#586b62}
+@media(max-width:760px){
+ header nav a,header nav button{min-height:44px;display:inline-flex;align-items:center;padding:8px 14px;font-size:14px}
+ header nav{-webkit-mask-image:linear-gradient(to right,#000 88%,transparent);mask-image:linear-gradient(to right,#000 88%,transparent);padding-right:24px}
+ main{padding-left:16px;padding-right:16px}
+ input,select{min-height:44px;font-size:16px}
+ .loader{padding:56px 20px}
+}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation-duration:.01ms!important;scroll-behavior:auto!important}}
