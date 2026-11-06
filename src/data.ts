@@ -28,6 +28,12 @@ export async function listAll<T>(
 
   const snapshot = await getDocs(publicQuery);
 
+  // Offline Firestore risponde con una cache vuota invece di un errore: senza questo controllo
+  // l'archivio sembrerebbe vuoto (tutti zeri) quando in realtà i dati non sono stati caricati.
+  if (snapshot.empty && snapshot.metadata.fromCache) {
+    throw new Error(`Impossibile leggere "${collectionName}": connessione assente`);
+  }
+
   const rows = snapshot.docs.map(
     (documentSnapshot) =>
       ({
