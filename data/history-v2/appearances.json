@@ -441,11 +441,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-09-30-campionato-valdadige-savoja-substitute",
+    "id": "2023-2024-2023-09-30-campionato-valdadige-savoja-n-substitute",
     "matchId": "2023-2024-2023-09-30-campionato-valdadige",
     "seasonId": "2023-2024",
-    "playerId": "savoja",
-    "playerName": "Savoja",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "substitute",
     "status": "published"
   },
@@ -486,11 +486,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-09-30-campionato-valdadige-aldro-vandi-p-substitute",
+    "id": "2023-2024-2023-09-30-campionato-valdadige-aldrovandi-p-substitute",
     "matchId": "2023-2024-2023-09-30-campionato-valdadige",
     "seasonId": "2023-2024",
-    "playerId": "aldro-vandi-p",
-    "playerName": "Aldro- vandi P",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
     "appearanceStatus": "substitute",
     "status": "published"
   },
@@ -657,11 +657,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna-cori-gliano-d-substitute",
+    "id": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna-corigliano-d-substitute",
     "matchId": "2023-2024-2023-10-08-campionato-san-zeno-di-montagna",
     "seasonId": "2023-2024",
-    "playerId": "cori-gliano-d",
-    "playerName": "Cori- gliano D",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
     "appearanceStatus": "substitute",
     "status": "published"
   },
@@ -918,11 +918,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-10-22-campionato-la-vetta-sa-voja-n-starter",
+    "id": "2023-2024-2023-10-22-campionato-la-vetta-savoja-n-starter",
     "matchId": "2023-2024-2023-10-22-campionato-la-vetta",
     "seasonId": "2023-2024",
-    "playerId": "sa-voja-n",
-    "playerName": "Sa- voja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -1098,11 +1098,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-10-29-campionato-pizzoletta-sa-ni-f-starter",
+    "id": "2023-2024-2023-10-29-campionato-pizzoletta-sani-f-starter",
     "matchId": "2023-2024-2023-10-29-campionato-pizzoletta",
     "seasonId": "2023-2024",
-    "playerId": "sa-ni-f",
-    "playerName": "Sa- ni F",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -2340,11 +2340,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-12-10-campionato-torri-savoja-starter",
+    "id": "2023-2024-2023-12-10-campionato-torri-savoja-n-starter",
     "matchId": "2023-2024-2023-12-10-campionato-torri",
     "seasonId": "2023-2024",
-    "playerId": "savoja",
-    "playerName": "Savoja",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -3168,11 +3168,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna-sa-ni-f-starter",
+    "id": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna-sani-f-starter",
     "matchId": "2023-2024-2024-02-03-campionato-san-zeno-di-montagna",
     "seasonId": "2023-2024",
-    "playerId": "sa-ni-f",
-    "playerName": "Sa- ni F",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -3321,11 +3321,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-02-18-campionato-la-vetta-sa-ni-f-starter",
+    "id": "2023-2024-2024-02-18-campionato-la-vetta-sani-f-starter",
     "matchId": "2023-2024-2024-02-18-campionato-la-vetta",
     "seasonId": "2023-2024",
-    "playerId": "sa-ni-f",
-    "playerName": "Sa- ni F",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -3717,11 +3717,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2023-03-06-campionato-young-boys-ca-priotti-a-starter",
+    "id": "2023-2024-2023-03-06-campionato-young-boys-capriotti-a-starter",
     "matchId": "2023-2024-2023-03-06-campionato-young-boys",
     "seasonId": "2023-2024",
-    "playerId": "ca-priotti-a",
-    "playerName": "Ca- priotti A",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -4032,11 +4032,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-03-20-campionato-corbiolo-sa-voja-n-starter",
+    "id": "2023-2024-2024-03-20-campionato-corbiolo-savoja-n-starter",
     "matchId": "2023-2024-2024-03-20-campionato-corbiolo",
     "seasonId": "2023-2024",
-    "playerId": "sa-voja-n",
-    "playerName": "Sa- voja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -4203,11 +4203,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-ca-priotti-a-starter",
+    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-capriotti-a-starter",
     "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
     "seasonId": "2023-2024",
-    "playerId": "ca-priotti-a",
-    "playerName": "Ca- priotti A",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -5526,11 +5526,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-05-08-coppa-verona-raldon-aldro-vandi-p-unused",
+    "id": "2023-2024-2024-05-08-coppa-verona-raldon-aldrovandi-p-unused",
     "matchId": "2023-2024-2024-05-08-coppa-verona-raldon",
     "seasonId": "2023-2024",
-    "playerId": "aldro-vandi-p",
-    "playerName": "Aldro- vandi P",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
     "appearanceStatus": "unused",
     "status": "published"
   },
@@ -5877,11 +5877,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-05-19-coppa-verona-valdadige-gri-maldi-f-unused",
+    "id": "2023-2024-2024-05-19-coppa-verona-valdadige-grimaldi-f-unused",
     "matchId": "2023-2024-2024-05-19-coppa-verona-valdadige",
     "seasonId": "2023-2024",
-    "playerId": "gri-maldi-f",
-    "playerName": "Gri- maldi F",
+    "playerId": "grimaldi-f",
+    "playerName": "Grimaldi F.",
     "appearanceStatus": "unused",
     "status": "published"
   },
@@ -6120,11 +6120,11 @@
     "status": "published"
   },
   {
-    "id": "2023-2024-2024-06-02-coppa-verona-casaleone-sa-voja-n-starter",
+    "id": "2023-2024-2024-06-02-coppa-verona-casaleone-savoja-n-starter",
     "matchId": "2023-2024-2024-06-02-coppa-verona-casaleone",
     "seasonId": "2023-2024",
-    "playerId": "sa-voja-n",
-    "playerName": "Sa- voja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -7554,9 +7554,18 @@
     "id": "2024-2025-2024-09-29-campionato-bardolino-pollina-g-danquah-k-substitute",
     "matchId": "2024-2025-2024-09-29-campionato-bardolino",
     "seasonId": "2024-2025",
-    "playerId": "pollina-g-danquah-k",
-    "playerName": "Pollina G. Danquah K",
+    "playerId": "danquah-k",
+    "playerName": "Danquah K.",
     "appearanceStatus": "substitute",
+    "status": "published"
+  },
+  {
+    "id": "2024-2025-2024-09-29-campionato-bardolino-pollina-g-substitute",
+    "matchId": "2024-2025-2024-09-29-campionato-bardolino",
+    "seasonId": "2024-2025",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
+    "appearanceStatus": "unused",
     "status": "published"
   },
   {
@@ -7659,11 +7668,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2024-10-06-campionato-sommacustoza-sa-voja-n-starter",
+    "id": "2024-2025-2024-10-06-campionato-sommacustoza-savoja-n-starter",
     "matchId": "2024-2025-2024-10-06-campionato-sommacustoza",
     "seasonId": "2024-2025",
-    "playerId": "sa-voja-n",
-    "playerName": "Sa- voja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -9207,11 +9216,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2024-12-15-campionato-fumanese-ma-tenin-t-starter",
+    "id": "2024-2025-2024-12-15-campionato-fumanese-matenin-t-starter",
     "matchId": "2024-2025-2024-12-15-campionato-fumanese",
     "seasonId": "2024-2025",
-    "playerId": "ma-tenin-t",
-    "playerName": "Ma- tenin T",
+    "playerId": "matenin-t",
+    "playerName": "Matenin T.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -9459,11 +9468,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2024-12-22-campionato-calmasino-pollini-g-substitute",
+    "id": "2024-2025-2024-12-22-campionato-calmasino-pollina-g-substitute",
     "matchId": "2024-2025-2024-12-22-campionato-calmasino",
     "seasonId": "2024-2025",
-    "playerId": "pollini-g",
-    "playerName": "Pollini G",
+    "playerId": "pollina-g",
+    "playerName": "Pollina G.",
     "appearanceStatus": "substitute",
     "status": "published"
   },
@@ -9963,11 +9972,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-01-26-campionato-bardolino-sartot-l-unused",
+    "id": "2024-2025-2025-01-26-campionato-bardolino-sartor-l-unused",
     "matchId": "2024-2025-2025-01-26-campionato-bardolino",
     "seasonId": "2024-2025",
-    "playerId": "sartot-l",
-    "playerName": "Sartot L",
+    "playerId": "sartor-l",
+    "playerName": "Sartor L.",
     "appearanceStatus": "unused",
     "status": "published"
   },
@@ -10197,11 +10206,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-02-09-campionato-caprino-savo-ja-n-starter",
+    "id": "2024-2025-2025-02-09-campionato-caprino-savoja-n-starter",
     "matchId": "2024-2025-2025-02-09-campionato-caprino",
     "seasonId": "2024-2025",
-    "playerId": "savo-ja-n",
-    "playerName": "Savo- ja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -10431,11 +10440,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-02-16-campionato-calmasino-corigliani-d-substitute",
+    "id": "2024-2025-2025-02-16-campionato-calmasino-corigliano-d-substitute",
     "matchId": "2024-2025-2025-02-16-campionato-calmasino",
     "seasonId": "2024-2025",
-    "playerId": "corigliani-d",
-    "playerName": "Corigliani D",
+    "playerId": "corigliano-d",
+    "playerName": "Corigliano D.",
     "appearanceStatus": "substitute",
     "status": "published"
   },
@@ -10683,11 +10692,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-03-02-campionato-parona-sa-voja-n-starter",
+    "id": "2024-2025-2025-03-02-campionato-parona-savoja-n-starter",
     "matchId": "2024-2025-2025-03-02-campionato-parona",
     "seasonId": "2024-2025",
-    "playerId": "sa-voja-n",
-    "playerName": "Sa- voja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -10836,11 +10845,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-03-09-campionato-lazise-savo-ja-n-starter",
+    "id": "2024-2025-2025-03-09-campionato-lazise-savoja-n-starter",
     "matchId": "2024-2025-2025-03-09-campionato-lazise",
     "seasonId": "2024-2025",
-    "playerId": "savo-ja-n",
-    "playerName": "Savo- ja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -10998,11 +11007,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-03-16-campionato-santanna-dalfaedo-savo-ja-n-starter",
+    "id": "2024-2025-2025-03-16-campionato-santanna-dalfaedo-savoja-n-starter",
     "matchId": "2024-2025-2025-03-16-campionato-santanna-dalfaedo",
     "seasonId": "2024-2025",
-    "playerId": "savo-ja-n",
-    "playerName": "Savo- ja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -11340,11 +11349,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-03-30-campionato-la-vetta-mate-nin-t-starter",
+    "id": "2024-2025-2025-03-30-campionato-la-vetta-matenin-t-starter",
     "matchId": "2024-2025-2025-03-30-campionato-la-vetta",
     "seasonId": "2024-2025",
-    "playerId": "mate-nin-t",
-    "playerName": "Mate- nin T",
+    "playerId": "matenin-t",
+    "playerName": "Matenin T.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -11520,11 +11529,11 @@
     "status": "published"
   },
   {
-    "id": "2024-2025-2025-04-06-campionato-san-zeno-ma-tenin-t-starter",
+    "id": "2024-2025-2025-04-06-campionato-san-zeno-matenin-t-starter",
     "matchId": "2024-2025-2025-04-06-campionato-san-zeno",
     "seasonId": "2024-2025",
-    "playerId": "ma-tenin-t",
-    "playerName": "Ma- tenin T",
+    "playerId": "matenin-t",
+    "playerName": "Matenin T.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -12582,11 +12591,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna-mas-socco-l-starter",
+    "id": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna-massocco-l-starter",
     "matchId": "2025-2026-2025-10-04-campionato-san-zeno-di-montagna",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -12762,11 +12771,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2025-10-12-campionato-sommacustoza-b-bor-tolotti-s-starter",
+    "id": "2025-2026-2025-10-12-campionato-sommacustoza-b-bortolotti-s-starter",
     "matchId": "2025-2026-2025-10-12-campionato-sommacustoza-b",
     "seasonId": "2025-2026",
-    "playerId": "bor-tolotti-s",
-    "playerName": "Bor- tolotti S",
+    "playerId": "bortolotti-s",
+    "playerName": "Bortolotti S.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -12942,11 +12951,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2025-10-19-campionato-cavaion-savo-ja-n-starter",
+    "id": "2025-2026-2025-10-19-campionato-cavaion-savoja-n-starter",
     "matchId": "2025-2026-2025-10-19-campionato-cavaion",
     "seasonId": "2025-2026",
-    "playerId": "savo-ja-n",
-    "playerName": "Savo- ja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -14355,11 +14364,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-01-25-campionato-rivoli-borto-lotti-s-starter",
+    "id": "2025-2026-2026-01-25-campionato-rivoli-bortolotti-s-starter",
     "matchId": "2025-2026-2026-01-25-campionato-rivoli",
     "seasonId": "2025-2026",
-    "playerId": "borto-lotti-s",
-    "playerName": "Borto- lotti S",
+    "playerId": "bortolotti-s",
+    "playerName": "Bortolotti S.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -14526,11 +14535,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna-mas-socco-l-starter",
+    "id": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna-massocco-l-starter",
     "matchId": "2025-2026-2026-02-01-campionato-san-zeno-di-montagna",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -14697,11 +14706,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-02-09-campionato-sommacustoza-b-mas-socco-l-starter",
+    "id": "2025-2026-2026-02-09-campionato-sommacustoza-b-massocco-l-starter",
     "matchId": "2025-2026-2026-02-09-campionato-sommacustoza-b",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -14877,11 +14886,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-02-15-campionato-cavaion-mas-socco-l-starter",
+    "id": "2025-2026-2026-02-15-campionato-cavaion-massocco-l-starter",
     "matchId": "2025-2026-2026-02-15-campionato-cavaion",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -15039,11 +15048,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-02-21-campionato-palazzolo-mas-socco-l-starter",
+    "id": "2025-2026-2026-02-21-campionato-palazzolo-massocco-l-starter",
     "matchId": "2025-2026-2026-02-21-campionato-palazzolo",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -15201,11 +15210,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-03-01-campionato-rosegaferro-mas-socco-l-starter",
+    "id": "2025-2026-2026-03-01-campionato-rosegaferro-massocco-l-starter",
     "matchId": "2025-2026-2026-03-01-campionato-rosegaferro",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -15354,11 +15363,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-mas-socco-l-starter",
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-massocco-l-starter",
     "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -15453,11 +15462,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-ca-priotti-a-unused",
+    "id": "2025-2026-2026-03-08-campionato-pieve-sa-floriano-capriotti-a-unused",
     "matchId": "2025-2026-2026-03-08-campionato-pieve-sa-floriano",
     "seasonId": "2025-2026",
-    "playerId": "ca-priotti-a",
-    "playerName": "Ca- priotti A",
+    "playerId": "capriotti-a",
+    "playerName": "Capriotti A.",
     "appearanceStatus": "unused",
     "status": "published"
   },
@@ -16029,11 +16038,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-04-12-campionato-lovers-palazzolo-mas-socco-l-starter",
+    "id": "2025-2026-2026-04-12-campionato-lovers-palazzolo-massocco-l-starter",
     "matchId": "2025-2026-2026-04-12-campionato-lovers-palazzolo",
     "seasonId": "2025-2026",
-    "playerId": "mas-socco-l",
-    "playerName": "Mas- socco L",
+    "playerId": "massocco-l",
+    "playerName": "Massocco L.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -16209,11 +16218,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-04-26-campionato-rivoli-bor-tolotti-s-starter",
+    "id": "2025-2026-2026-04-26-campionato-rivoli-bortolotti-s-starter",
     "matchId": "2025-2026-2026-04-26-campionato-rivoli",
     "seasonId": "2025-2026",
-    "playerId": "bor-tolotti-s",
-    "playerName": "Bor- tolotti S",
+    "playerId": "bortolotti-s",
+    "playerName": "Bortolotti S.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -16389,11 +16398,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-01-11-coppa-verona-trevenzuolo-al-drovandi-p-starter",
+    "id": "2025-2026-2026-01-11-coppa-verona-trevenzuolo-aldrovandi-p-starter",
     "matchId": "2025-2026-2026-01-11-coppa-verona-trevenzuolo",
     "seasonId": "2025-2026",
-    "playerId": "al-drovandi-p",
-    "playerName": "Al- drovandi P",
+    "playerId": "aldrovandi-p",
+    "playerName": "Aldrovandi P.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -16569,11 +16578,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-sa-voja-n-starter",
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-savoja-n-starter",
     "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
     "seasonId": "2025-2026",
-    "playerId": "sa-voja-n",
-    "playerName": "Sa- voja N",
+    "playerId": "savoja-n",
+    "playerName": "Savoja N.",
     "appearanceStatus": "starter",
     "status": "published"
   },
@@ -16668,11 +16677,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-conto-lini-z-substitute",
+    "id": "2025-2026-2026-01-18-coppa-verona-san-marco-contolini-z-substitute",
     "matchId": "2025-2026-2026-01-18-coppa-verona-san-marco",
     "seasonId": "2025-2026",
-    "playerId": "conto-lini-z",
-    "playerName": "Conto- lini Z",
+    "playerId": "contolini-z",
+    "playerName": "Contolini Z.",
     "appearanceStatus": "substitute",
     "status": "published"
   },
@@ -17388,11 +17397,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-borto-lotti-d-unused",
+    "id": "2025-2026-2026-05-24-coppa-verona-brundisium-bortolotti-d-unused",
     "matchId": "2025-2026-2026-05-24-coppa-verona-brundisium",
     "seasonId": "2025-2026",
-    "playerId": "borto-lotti-d",
-    "playerName": "Borto- lotti D",
+    "playerId": "bortolotti-d",
+    "playerName": "Bortolotti D.",
     "appearanceStatus": "unused",
     "status": "published"
   },
@@ -17469,11 +17478,11 @@
     "status": "published"
   },
   {
-    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-sa-ni-f-starter",
+    "id": "2025-2026-2026-05-29-coppa-verona-palazzolo-sani-f-starter",
     "matchId": "2025-2026-2026-05-29-coppa-verona-palazzolo",
     "seasonId": "2025-2026",
-    "playerId": "sa-ni-f",
-    "playerName": "Sa- ni F",
+    "playerId": "sani-f",
+    "playerName": "Sani F.",
     "appearanceStatus": "starter",
     "status": "published"
   },
