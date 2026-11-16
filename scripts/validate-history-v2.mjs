@@ -5,4 +5,14 @@ const expected={"2020-2021":4,"2021-2022":26,"2022-2023":31,"2023-2024":37,"2024
 const actual={};for(const m of data["matches.json"])actual[m.seasonId]=(actual[m.seasonId]||0)+1;
 for(const [s,n] of Object.entries(expected))if(actual[s]!==n)throw new Error(`${s}: attese ${n}, trovate ${actual[s]||0}`);
 for(const [f,rows] of Object.entries(data)){const ids=new Set();for(const r of rows){if(!r.id)throw new Error(`ID mancante in ${f}`);if(ids.has(r.id))throw new Error(`ID duplicato ${r.id} in ${f}`);ids.add(r.id);}}
+
+// --- controlli di qualità (errori trovati nel confronto con il PDF) ---
+{const A=data["appearances.json"],E=data["match-events.json"];const problems=[];
+ for(const r of [...A,...E.flatMap(e=>[{playerId:e.playerId},{playerId:e.assistPlayerId}])]){if(r.playerId&&/^[a-z]{1,3}-[a-z]{2,}-/.test(r.playerId)&&!/^(de|di|da|del|dalla)-/.test(r.playerId))problems.push(`ID giocatore sospetto (nome spezzato a fine riga?): ${r.playerId}`)}
+ const reds={};for(const e of E)if(e.type==="red")reds[e.matchId]=(reds[e.matchId]||0)+1;
+ for(const [m,n] of Object.entries(reds))if(n>3)problems.push(`${n} cartellini rossi BNC nella stessa partita: ${m}`);
+ const lineup={};for(const a of A)(lineup[a.matchId]??={})[a.playerId]=a.appearanceStatus;
+ for(const e of E)if(["yellow","red"].includes(e.type)&&lineup[e.matchId]&&!lineup[e.matchId][e.playerId])problems.push(`Cartellino ${e.type} a ${e.playerName} che non è nella distinta: ${e.matchId}`);
+ const seen=new Set();for(const a of A){const k=a.matchId+"|"+a.playerId;if(seen.has(k))problems.push(`Giocatore doppio nella distinta: ${k}`);seen.add(k)}
+ if(problems.length){console.error(problems.join("\n"));throw new Error(`${problems.length} problemi di qualità dati`)}}
 console.log(`VALIDAZIONE V2 OK: ${data["matches.json"].length} partite, ${data["opponents.json"].length} avversari, ${data["appearances.json"].length} righe distinta, ${data["match-events.json"].length} eventi`);

@@ -2505,8 +2505,8 @@
     "id": "2023-2024-2023-11-01-campionato-pieve-san-floriano-event-278",
     "matchId": "2023-2024-2023-11-01-campionato-pieve-san-floriano",
     "seasonId": "2023-2024",
-    "playerId": "via-f",
-    "playerName": "Via F.",
+    "playerId": "dalla-via-f",
+    "playerName": "Dalla Via F.",
     "type": "yellow",
     "status": "published"
   },
@@ -2802,8 +2802,8 @@
     "id": "2023-2024-2024-01-21-campionato-palazzolo-event-311",
     "matchId": "2023-2024-2024-01-21-campionato-palazzolo",
     "seasonId": "2023-2024",
-    "playerId": "via-f",
-    "playerName": "Via F.",
+    "playerId": "dalla-via-f",
+    "playerName": "Dalla Via F.",
     "type": "yellow",
     "status": "published"
   },
@@ -3066,132 +3066,6 @@
     "playerId": "grimaldi-f",
     "playerName": "Grimaldi F.",
     "type": "yellow",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-341",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "capriotti-a",
-    "playerName": "Capriotti A.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-342",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "fasoli-m",
-    "playerName": "Fasoli M.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-343",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "prato-a",
-    "playerName": "Prato A.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-344",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "rossi-d",
-    "playerName": "Rossi D.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-345",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "bortolotti-d",
-    "playerName": "Bortolotti D.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-346",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "via-f",
-    "playerName": "Via F.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-347",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "francesco-m",
-    "playerName": "Francesco M.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-348",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "guarise-b",
-    "playerName": "Guarise B.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-349",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "massocco-m",
-    "playerName": "Massocco M.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-350",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "massocco-l",
-    "playerName": "Massocco L.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-351",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "aldrovandi-p",
-    "playerName": "Aldrovandi P.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-352",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "crisci-t",
-    "playerName": "Crisci T.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-353",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "squaranti-l",
-    "playerName": "Squaranti L.",
-    "type": "red",
-    "status": "published"
-  },
-  {
-    "id": "2023-2024-2024-03-24-campionato-saval-maddalena-event-354",
-    "matchId": "2023-2024-2024-03-24-campionato-saval-maddalena",
-    "seasonId": "2023-2024",
-    "playerId": "bortoletto-s",
-    "playerName": "Bortoletto S.",
-    "type": "red",
     "status": "published"
   },
   {
@@ -3882,8 +3756,8 @@
     "id": "2024-2025-2024-12-08-campionato-san-zeno-event-431",
     "matchId": "2024-2025-2024-12-08-campionato-san-zeno",
     "seasonId": "2024-2025",
-    "playerId": "via-a",
-    "playerName": "Via A.",
+    "playerId": "dalla-via-a",
+    "playerName": "Dalla Via A.",
     "type": "yellow",
     "status": "published"
   },
@@ -4017,8 +3891,8 @@
     "id": "2024-2025-2025-02-02-campionato-sommacustoza-event-446",
     "matchId": "2024-2025-2025-02-02-campionato-sommacustoza",
     "seasonId": "2024-2025",
-    "playerId": "via-f",
-    "playerName": "Via F.",
+    "playerId": "dalla-via-f",
+    "playerName": "Dalla Via F.",
     "type": "yellow",
     "status": "published"
   },
@@ -4170,8 +4044,8 @@
     "id": "2024-2025-2025-03-16-campionato-santanna-dalfaedo-event-463",
     "matchId": "2024-2025-2025-03-16-campionato-santanna-dalfaedo",
     "seasonId": "2024-2025",
-    "playerId": "via-a",
-    "playerName": "Via A.",
+    "playerId": "dalla-via-a",
+    "playerName": "Dalla Via A.",
     "type": "yellow",
     "status": "published"
   },
@@ -4179,8 +4053,8 @@
     "id": "2024-2025-2025-03-23-campionato-cisano-juventina-bardolino-event-464",
     "matchId": "2024-2025-2025-03-23-campionato-cisano-juventina-bardolino",
     "seasonId": "2024-2025",
-    "playerId": "via-a",
-    "playerName": "Via A.",
+    "playerId": "dalla-via-a",
+    "playerName": "Dalla Via A.",
     "type": "yellow",
     "status": "published"
   },
@@ -4224,8 +4098,8 @@
     "id": "2024-2025-2025-04-06-campionato-san-zeno-event-469",
     "matchId": "2024-2025-2025-04-06-campionato-san-zeno",
     "seasonId": "2024-2025",
-    "playerId": "via-a",
-    "playerName": "Via A.",
+    "playerId": "dalla-via-a",
+    "playerName": "Dalla Via A.",
     "type": "yellow",
     "status": "published"
   },
