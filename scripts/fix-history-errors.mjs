@@ -12,16 +12,19 @@
 //   node scripts/fix-history-errors.mjs                      -> corregge i file JSON in data/history-v2
 //   node scripts/fix-history-errors.mjs --firestore          -> DRY RUN su Firestore (mostra cosa cambierebbe)
 //   node scripts/fix-history-errors.mjs --firestore --apply  -> applica su Firestore
-//   ... --restore-stats=2025-2026,2024-2025                  -> riscrive playerSeasonStats di quelle stagioni dai dati
-//                                                               ufficiali del PDF (data/history/player-season-stats.json)
+//   Su Firestore lo script lavora SOLO sulle stagioni passate (non tocca 2026-2027) e riscrive playerSeasonStats
+//   delle stagioni del PDF dai dati ufficiali (data/history/player-season-stats.json). Opzioni: --current-season=ID, --no-restore-stats
 import { readFile, writeFile } from "node:fs/promises";
 import process from "node:process";
 
 const args = process.argv.slice(2);
 const useFirestore = args.includes("--firestore");
 const apply = args.includes("--apply");
+// La stagione in corso viene aggiornata solo dal front end: lo script non la tocca mai.
+const CURRENT_SEASON = (args.find((a) => a.startsWith("--current-season=")) || "--current-season=2026-2027").split("=")[1];
+// Le statistiche delle stagioni passate vengono ripristinate dai dati ufficiali del PDF (disattivabile con --no-restore-stats).
 const restoreArg = args.find((a) => a.startsWith("--restore-stats="));
-const restoreSeasons = restoreArg ? restoreArg.split("=")[1].split(",").filter(Boolean) : [];
+const noRestore = args.includes("--no-restore-stats");
 
 const slug = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
@@ -114,7 +117,10 @@ async function main() {
   if (!getApps().length) initializeApp({ credential: applicationDefault(), projectId: "bnc-archivio-prima-squadra" });
   const db = getFirestore();
   const load = async (c) => (await db.collection(c).get()).docs.map((d) => ({ __ref: d.ref, ...d.data(), id: d.id }));
-  const [pl, appsDocs, eventDocs] = await Promise.all([load("players"), load("appearances"), load("matchEvents")]);
+  const past = (d) => d.seasonId !== CURRENT_SEASON;
+  const [pl, appsAll, eventAll] = await Promise.all([load("players"), load("appearances"), load("matchEvents")]);
+  const appsDocs = appsAll.filter(past), eventDocs = eventAll.filter(past);
+  console.log(`Stagione in corso esclusa: ${CURRENT_SEASON} (${appsAll.length - appsDocs.length} distinte e ${eventAll.length - eventDocs.length} eventi non toccati)`);
   pl.forEach((p) => { validIds.add(p.id); if (p.displayName) names.set(p.id, p.displayName); });
   const res = fixRows({ appearances: appsDocs, events: eventDocs, validIds, names });
   res.log.forEach((l) => console.log(l));
@@ -138,15 +144,16 @@ async function main() {
 
   // documenti derivati intestati a giocatori "fantasma": si eliminano (i dati giusti restano sul giocatore vero)
   for (const c of ["squadMembers", "playerSeasonStats", "goalkeeperSeasonStats"]) {
-    for (const d of await load(c)) {
+    for (const d of (await load(c)).filter(past)) {
       if (d.playerId && canonicalId(d.playerId, validIds) !== d.playerId) { console.log(`ELIMINATO ${c}/${d.id} (giocatore fantasma ${d.playerId})`); ops.push({ type: "delete", ref: d.__ref }); }
     }
   }
 
   // confronto/ripristino statistiche ufficiali del PDF
   const official = JSON.parse(await readFile("data/history/player-season-stats.json", "utf8"));
-  const stats = await load("playerSeasonStats");
-  const seasonsInFile = [...new Set(official.map((s) => s.seasonId))];
+  const stats = (await load("playerSeasonStats")).filter(past);
+  const restoreSeasons = noRestore ? [] : restoreArg ? restoreArg.split("=")[1].split(",").filter(Boolean) : [...new Set(official.map((s) => s.seasonId))].filter((x) => x !== CURRENT_SEASON);
+  const seasonsInFile = [...new Set(official.map((s) => s.seasonId))].filter((x) => x !== CURRENT_SEASON);
   for (const season of seasonsInFile) {
     const mine = new Map(stats.filter((s) => s.seasonId === season).map((s) => [s.playerId, s]));
     const ref = official.filter((s) => s.seasonId === season);
